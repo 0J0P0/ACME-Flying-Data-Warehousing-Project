@@ -1,0 +1,21 @@
+aircraft_reg_code,manufacturer_serial_number,aircraft_model,manufacturer
+XY-OFW,MSN 2875,737,Airbus
+XY-IOO,MSN 4925,777,Boeing
+XY-NMY,MSN 1749,767,Boeing
+XY-PZC,MSN 2947,777,Boeing
+XY-YTM,MSN 6257,A350 XWB,Boeing
+XY-ZDY,MSN 7721,767,Boeing
+XY-FBA,MSN 6725,A330neo,Boeing
+XY-CMJ,MSN 2164,737,Airbus
+XY-ALV,MSN 1325,A340,Boeing
+XY-ZWJ,MSN 3366,767,Boeing
+XY-OHF,MSN 7553,777,Boeing
+XY-MBJ,MSN 6518,767,Boeing
+XY-LYP,MSN 2146,747,Boeing
+XY-OZH,MSN 4371,A320neo family,Boeing
+XY-IWX,MSN 3786,747,Airbus
+XY-NHZ,MSN 4748,A340,Boeing
+XY-LQZ,MSN 5831,A330neo,Airbus
+XY-JXR,MSN 2248,A350 XWB,Airbus
+XY-ZMF,MSN 9982,737,Airbus
+XY-YAZ,MSN 7212,737,Airbus
