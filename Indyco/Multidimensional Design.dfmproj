@@ -11,8 +11,20 @@
       </datamart>
     </datamarts>
   </datawarehouse>
-  <conformedHierarchies />
-  <areas />
+  <conformedHierarchies>
+    <conformedHierarchy id="5050c0ae-e20d-439f-8502-ac1e24acb146" />
+    <conformedHierarchy id="89282fad-3c50-436f-9c1b-b9f12d904ed5" />
+  </conformedHierarchies>
+  <areas>
+    <area name="Galaxy Schema" id="829647d1-e93c-460d-ba9a-1e13d1262d65">
+      <factSchemas>
+        <factschema id="458f9e49-9f58-4214-a9cf-70a2c98873c7" />
+        <factschema id="55351cd0-815b-4ac1-a930-70515c944446" />
+        <factschema id="66621f0d-bedb-40b8-8c17-e26b26f56022" />
+        <factschema id="f34535a3-e50b-4840-aaee-0ebc4c9089aa" />
+      </factSchemas>
+    </area>
+  </areas>
   <customProperties>
     <attributes />
     <measures />
