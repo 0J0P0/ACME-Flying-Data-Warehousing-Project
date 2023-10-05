@@ -10,10 +10,13 @@
 -- CN
     -- DYR (delay rate)
     -- CNR (cancellation rate)
-    -- TDY
+    -- TDR
     -- ADD
+-- ADOS (aircraft days out of service)
+    -- SUM(ADOSS)
+    -- SUM(ADOSU)
+-- AIDS (aircraft in days service)
 
 
 -- TABLE KPIs-2
--- ADOS (aircraft days out of service) = SUM(ADOSS) + SUM(ADOSU)
--- AIDS (aircraft in days service)
+-- pilot_
