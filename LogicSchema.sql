@@ -1,12 +1,13 @@
 CREATE TABLE AircraftUtilization (
     aircraftID CHAR(6),
     timeID DATE,
-    flightHours NUMBER(2),  -- FH
-    flightCycles NUMBER(2), -- TO
+    FH NUMBER(2),
+    TO NUMBER(2),
     PRIMARY KEY (aircraftID, timeID),
     FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID),
     FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
 );
+
 
 CREATE TABLE AircraftUtilization2 (
     aircraftID CHAR(6),
