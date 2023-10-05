@@ -11,14 +11,14 @@ CREATE TABLE AircraftUtilization (
 CREATE TABLE AircraftUtilization2 (
     aircraftID CHAR(6),
     timeID DATE,  -- aqui el timeID solo considera mes y año
-    ADIS INTEGER,
-    ADOS INTEGER,
-    ADOSS INTEGER,
-    ADOSU INTEGER,
-    DYR INTEGER, -- DY/TO
-    CNR INTEGER, -- CN/TO
-    TDR INTEGER, -- 100 – ((DY + CN) / TO) x 100
-    ADD INTEGER, -- (Sum of delay duration > 15 minutes and < 6 hours / Nbr of delay duration> 15 minutes and < 6 hours) x 100
+    ADIS FLOAT,
+    ADOS FLOAT,
+    ADOSS FLOAT,
+    ADOSU FLOAT,
+    DYR FLOAT, -- DY/TO
+    CNR FLOAT, -- CN/TO
+    TDR FLOAT, -- 100 – ((DY + CN) / TO) x 100
+    ADD FLOAT, -- (Sum of delay duration > 15 minutes and < 6 hours / Nbr of delay duration> 15 minutes and < 6 hours) x 100
     PRIMARY KEY (aircraftID, timeID),
     FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID),
     FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
@@ -27,12 +27,12 @@ CREATE TABLE AircraftUtilization2 (
 CREATE TABLE LogBook (
     aircraftID CHAR(6),
     timeID DATE,
-    RRh INTEGER,   -- 1000 x (logbook count)/(total flight-hours)
-    RRc INTEGER,  -- 100 x (logbook count)/(total departures)
-    PRRh INTEGER,  -- 1000 x (Pilot logbook count)/(total flight-hours)
-    PRRc INTEGER,  -- 100 x (Pilot logbook count)/(total departures)
-    MRRh INTEGER,  -- 1000 x (Maintenance logbook count)/(total flight-hours)
-    MRRc INTEGER,  -- 100 x (Maintenance logbook count)/(total departures)
+    RRh FLOAT,   -- 1000 x (logbook count)/(total flight-hours)
+    RRc FLOAT,  -- 100 x (logbook count)/(total departures)
+    PRRh FLOAT,  -- 1000 x (Pilot logbook count)/(total flight-hours)
+    PRRc FLOAT,  -- 100 x (Pilot logbook count)/(total departures)
+    MRRh FLOAT,  -- 1000 x (Maintenance logbook count)/(total flight-hours)
+    MRRc FLOAT,  -- 100 x (Maintenance logbook count)/(total departures)
     PRIMARY KEY (aircraftID, timeID),
     FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID),
     FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
@@ -43,8 +43,8 @@ CREATE TABLE LogBook (
 CREATE TABLE MAREP (
     airportID CHAR(3),
     aircraftID CHAR(6),
-    MRRh INTEGER,  -- 1000 x (Maintenance logbook count)/(total flight-hours)
-    MRRc INTEGER,  -- 100 x (Maintenance logbook count)/(total departures)
+    MRRh FLOAT,  -- 1000 x (Maintenance logbook count)/(total flight-hours)
+    MRRc FLOAT,  -- 100 x (Maintenance logbook count)/(total departures)
     PRIMARY KEY (airportID, aircraftID),
     FOREIGN KEY (airportID) REFERENCES AirportDimension(ID),
     FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID)
