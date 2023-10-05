@@ -1,7 +1,9 @@
--------------------------------------------------------------------------  AIMS
+------------------------------------------------------------------------
+-- AIMS.sql
+------------------------------------------------------------------------
 
 CREATE TYPE SlotKind AS ENUM ('Flight', 'Maintenance', 'Buffer', 'Spare');
--- assumption that buffer and spare not used in this project
+-- Assumption that buffer and spare not used in this project
 
 CREATE TABLE Slots (
 	aircraftRegistration CHAR(6) NOT NULL,

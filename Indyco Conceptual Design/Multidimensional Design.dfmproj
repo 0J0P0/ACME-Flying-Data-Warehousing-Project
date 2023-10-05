@@ -1,0 +1,42 @@
+<project name="Multidimensional Design" id="fb56affc-75b9-4264-95e3-b384c5b897e9" toolversion="3.5.0.0">
+  <datawarehouse>
+    <datamarts>
+      <datamart name="Datamart" id="d4586bff-37db-48de-974b-5de838d817e5">
+        <factschemas>
+          <factschema id="3ccf557a-35c1-4e0e-9beb-3f983be2f9ee" />
+          <factschema id="9983f3f2-c637-4968-93d6-259ab323b6d4" />
+        </factschemas>
+      </datamart>
+    </datamarts>
+  </datawarehouse>
+  <conformedHierarchies>
+    <conformedHierarchy id="6641a788-a086-4481-9532-0293cb8d1ffe" />
+    <conformedHierarchy id="a8d7e664-f421-4966-8df1-9b3ec37efe3e" />
+  </conformedHierarchies>
+  <areas>
+    <area name="Galaxy Schema" id="0208b68d-2cbc-4f76-9311-2ec42c368408">
+      <factSchemas>
+        <factschema id="9983f3f2-c637-4968-93d6-259ab323b6d4" />
+        <factschema id="3ccf557a-35c1-4e0e-9beb-3f983be2f9ee" />
+      </factSchemas>
+    </area>
+  </areas>
+  <customProperties>
+    <attributes />
+    <measures />
+    <facts />
+  </customProperties>
+  <linkedProperties />
+  <projectOptions>
+    <logicModelingProfile name="starschema" isEditable="false" />
+    <logicModelingNamePrefixes DimensionTableNamePrefix="DT_" FactTableNamePrefix="FT_" BridgeTableNamePrefix="BT_" NavigationTableNamePrefix="NAV_" JunkTableNamePrefix="JT_" PrimaryKeyNamePrefix="PK_" ForeignKeyNamePrefix="FK_" TableIdNamePrefix="ID_" ConformedDimensionViewNamePrefix="DTV_" TemporalScenarioRollbackFromFieldName="FROM" TemporalScenarioRollbackToFieldName="TO" TemporalScenarioRollbackMasterFieldName="MASTER" />
+    <logicalModelingDefaultTypes>
+      <attributes name="VARCHAR" length="255" scale="-1" precision="-1" />
+      <measures name="DECIMAL" length="-1" scale="3" precision="18" />
+      <surrogates name="INT" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackFromType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackToType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackMasterType name="INT" length="-1" scale="-1" precision="-1" />
+    </logicalModelingDefaultTypes>
+  </projectOptions>
+</project>
