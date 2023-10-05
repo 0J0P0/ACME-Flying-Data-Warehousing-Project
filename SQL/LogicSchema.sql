@@ -1,12 +1,13 @@
 CREATE TABLE AircraftUtilization (
     aircraftID CHAR(6),
     timeID DATE,
-    flightHours NUMBER(2),  -- FH
-    flightCycles NUMBER(2), -- TO
+    FH NUMBER(2),
+    TO NUMBER(2),
     PRIMARY KEY (aircraftID, timeID),
     FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID),
     FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
 );
+
 
 CREATE TABLE AircraftUtilization2 (
     aircraftID CHAR(6),
@@ -24,6 +25,8 @@ CREATE TABLE AircraftUtilization2 (
     FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
 )
 
+
+-- logbook count, total flight-hours, total departures, Pilot logbook count y Maintenance logbook count se pueden guardar en esta tabla y hacer una vista para calcular los RR y PRR
 CREATE TABLE LogBook (
     aircraftID CHAR(6),
     timeID DATE,
