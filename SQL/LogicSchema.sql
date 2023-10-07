@@ -6,7 +6,8 @@
 -- FACT TABLES
 -- ---------------- --
 
-CREATE TABLE miketowers (
+CREATE TABLE AircraftUtilizationMetrics
+(
     aircraftID CHAR(6),
     timeID DATE,
     flight_hours_count INT,
@@ -22,7 +23,8 @@ CREATE TABLE miketowers (
 );
 
 
-CREATE TABLE quepedo (
+CREATE TABLE LogBookMetrics
+(
     aircraftID CHAR(6),
     timeID DATE,
     flight_hours_count INT,
@@ -34,27 +36,30 @@ CREATE TABLE quepedo (
     FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
 )
 
-
 -- ---------------- --
--- DIMENSION TABLES
+-- DIMENSION TABLES 
 -- ---------------- --
 
-CREATE TABLE AircraftDimension (
+CREATE TABLE AircraftDimension
+(
     ID CHAR(6),
     model VARCHAR2(100) NOT NULL,
     manufacturer VARCHAR2(100) NOT NULL,
     PRIMARY KEY (ID)
 );
 
-CREATE TABLE TemporalDimension (
+CREATE TABLE TemporalDimension
+(
     ID DATE,
-    day NUMBER(2) NOT NULL,  -- se tiene que añadir o crear otra tabla para el día de la semana?
+    day NUMBER(2) NOT NULL,
     month CHAR(7) NOT NULL,
     year NUMBER(4) NOT NULL,
     PRIMARY KEY (ID),
 );
+-- se tiene que añadir o crear otra tabla para el día de la semana?
 
-CREATE TABLE AirportDimension (
+CREATE TABLE AirportDimension
+(
     ID CHAR(3),
     airport VARCHAR2(100) NOT NULL,
     PRIMARY KEY (ID)
