@@ -27,13 +27,13 @@ CREATE TABLE LogBookMetrics
 (
     aircraftID CHAR(6),
     timeID DATE,
-    flight_hours_count INT,
-    take_offs_count INT,
+    airportID CHAR(3),
     pilot_logbook_count INT,
     manintenance_logbook_count INT,
     PRIMARY KEY (aircraftID, timeID),
     FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID),
-    FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
+    FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID),
+    FOREIGN KEY (airportID) REFERENCES AirportDimension(ID)
 )
 
 -- ---------------- --
