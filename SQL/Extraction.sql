@@ -5,21 +5,7 @@
 -- ---------------- --
 -- FACT TABLES
 -- ---------------- --
-
 -- AircraftUtilizationMetrics
--- SELECT f.aircraftregistration,
---         CAST(f.actualdeparture AS DATE) AS timeID,  -- se asume que actualdeparture es el timeID
---         f.scheduleddeparture,
---         f.scheduledarrival,
---         f.actualdeparture,
---         f.actualarrival,
---         f.delaycode,
---         m.scheduleddeparture AS scheduledmaintenancestart,
---         m.scheduledarrival AS scheduledmaintenanceend,
---         m.programmed
--- FROM flights f
--- 	INNER JOIN maintenance m ON f.aircraftregistration = m.aircraftregistration
-
 SELECT f.aircraftregistration,
         CAST(f.actualdeparture AS DATE) AS timeID,  -- se asume que actualdeparture es el timeID
         f.scheduleddeparture,
