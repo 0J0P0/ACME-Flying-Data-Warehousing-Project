@@ -10,8 +10,8 @@ CREATE TABLE AircraftUtilizationMetrics
 (
     aircraftID CHAR(6),
     timeID DATE,
-    flight_hours_count INT,
-    take_offs_count INT,
+    flight_hours INT,
+    take_offs INT,
     delay_count INT,
     cancellation_count INT,
     days_out_of_service_schedule INT,
