@@ -41,7 +41,7 @@ FROM technicallogbookorders t
 -- ---------------- --
 
 -- AircraftDimension
-SELECT a.aircraft_reg_code as 
+SELECT a.aircraft_reg_code
         a.aircraft_model,
         a.manufacturer
 FROM aircrafts a
