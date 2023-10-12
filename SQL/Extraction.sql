@@ -47,10 +47,10 @@ SELECT a.aircraft_reg_code
 FROM aircrafts a
 
 -- TemporalDimension
-SELECT  CAST(f.actualdeparture AS DATE) AS ID,  -- se asume que actualdeparture es el timeID
-        EXTRACT(DAY FROM f.actualdeparture) AS day,
-        EXTRACT(MONTH FROM f.actualdeparture) AS month,
-        EXTRACT(YEAR FROM f.actualdeparture) AS year
+SELECT  CAST(f.scheduleddeparture AS DATE) AS ID,  -- se asume que scheduleddeparture es el timeID
+        EXTRACT(DAY FROM f.scheduleddeparture) AS day,
+        EXTRACT(MONTH FROM f.scheduleddeparture) AS month,
+        EXTRACT(YEAR FROM f.scheduleddeparture) AS year
 FROM flights f
 
 SELECT  CAST(m.scheduleddeparture AS DATE) AS ID,  -- se asume que scheduleddeparture es el timeID
