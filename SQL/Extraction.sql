@@ -7,21 +7,22 @@
 -- ---------------- --
 -- AircraftUtilizationMetrics
 SELECT f.aircraftregistration,
-        CAST(f.actualdeparture AS DATE) AS timeID,  -- se asume que actualdeparture es el timeID
         f.scheduleddeparture,
         f.scheduledarrival,
         f.actualdeparture,
         f.actualarrival,
-        f.delaycode
+        f.delaycode,
+        EXTRACT(YEAR FROM f.actualdeparture) AS year,
+        EXTRACT(MONTH FROM f.actualdeparture) AS month,
+        EXTRACT(DAY FROM f.actualdeparture) AS day
 FROM flights f
 -- f.kind, es redundante porque en flights todos son tipo flight
 -- f.cancelled, igual es redundante si sabemos que cuando no es null, actualdeparture y actualarrival son null
 -- los delaycode que no son null o '', se asumiran como que no hay delay
 
 SELECT m.aircraftregistration,
-        CAST(m.actualdeparture AS DATE) AS timeID,  -- se asume que actualdeparture es el timeID
-        m.scheduleddeparture AS scheduledmaintenancestart,
-        m.scheduledarrival AS scheduledmaintenanceend,
+        m.scheduleddeparture,
+        m.scheduledarrival,
         m.programmed
 FROM maintenance m
 -- f.kind, es redundante porque en main todos son tipo main
