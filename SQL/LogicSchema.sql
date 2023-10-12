@@ -50,8 +50,8 @@ CREATE TABLE AircraftDimension
 
 CREATE TABLE TemporalDimension
 (
-    ID DATE,
-    day NUMBER(2) NOT NULL,
+    ID DATE,  -- tenemos uno por cada dia del año desde 2010 hasta 2017
+    day NUMBER(2) NOT NULL,  -- repetido
     month CHAR(7) NOT NULL,
     year NUMBER(4) NOT NULL,
     PRIMARY KEY (ID),
