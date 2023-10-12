@@ -47,17 +47,11 @@ SELECT a.aircraft_reg_code
 FROM aircrafts a
 
 -- TemporalDimension
-SELECT  CAST(f.scheduleddeparture AS DATE) AS ID,  -- se asume que scheduleddeparture es el timeID
-        EXTRACT(DAY FROM f.scheduleddeparture) AS day,
-        EXTRACT(MONTH FROM f.scheduleddeparture) AS month,
-        EXTRACT(YEAR FROM f.scheduleddeparture) AS year
-FROM flights f
-
-SELECT  CAST(m.scheduleddeparture AS DATE) AS ID,  -- se asume que scheduleddeparture es el timeID
-        EXTRACT(DAY FROM m.scheduleddeparture) AS day,
-        EXTRACT(MONTH FROM m.scheduleddeparture) AS month,
-        EXTRACT(YEAR FROM m.scheduleddeparture) AS year
-FROM maintenance m
+SELECT  CAST(s.scheduleddeparture AS DATE) AS ID,  -- se asume que scheduleddeparture es el timeID
+        EXTRACT(DAY FROM s.scheduleddeparture) AS day,
+        EXTRACT(MONTH FROM s.scheduleddeparture) AS month,
+        EXTRACT(YEAR FROM s.scheduleddeparture) AS year
+FROM slots s
 
 SELECT t.executiondate AS ID, -- time es cuando se ejecuta o cuando se registra?????
         EXTRACT(DAY FROM t.executiondate) AS day,
