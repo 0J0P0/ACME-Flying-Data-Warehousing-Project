@@ -56,7 +56,8 @@ CREATE TABLE TemporalDimension
     year NUMBER(4) NOT NULL,
     PRIMARY KEY (ID),
 );
--- se tiene que añadir o crear otra tabla para el día de la semana?
+-- group by day != group by timeid
+-- group by timeid es como no hacer group by --> quitarlo del aggregate
 
 CREATE TABLE AirportDimension
 (
