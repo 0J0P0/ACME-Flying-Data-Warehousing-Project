@@ -10,8 +10,8 @@ CREATE TABLE AircraftUtilizationMetrics
 (
     aircraftID CHAR(6),
     timeID DATE,
-    flight_hours_count INT,
-    take_offs_count INT,
+    flight_hours INT,
+    take_offs INT,
     delay_count INT,
     cancellation_count INT,
     days_out_of_service_schedule INT,
@@ -50,13 +50,14 @@ CREATE TABLE AircraftDimension
 
 CREATE TABLE TemporalDimension
 (
-    ID DATE,
-    day NUMBER(2) NOT NULL,
+    ID DATE,  -- tenemos uno por cada dia del año desde 2010 hasta 2017
+    day NUMBER(2) NOT NULL,  -- repetido
     month CHAR(7) NOT NULL,
     year NUMBER(4) NOT NULL,
     PRIMARY KEY (ID),
 );
--- se tiene que añadir o crear otra tabla para el día de la semana?
+-- group by day != group by timeid
+-- group by timeid es como no hacer group by --> quitarlo del aggregate
 
 CREATE TABLE AirportDimension
 (

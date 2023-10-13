@@ -7,21 +7,22 @@
 -- ---------------- --
 -- AircraftUtilizationMetrics
 SELECT f.aircraftregistration,
-        CAST(f.actualdeparture AS DATE) AS timeID,  -- se asume que actualdeparture es el timeID
         f.scheduleddeparture,
         f.scheduledarrival,
         f.actualdeparture,
         f.actualarrival,
-        f.delaycode
+        f.delaycode,
+        EXTRACT(YEAR FROM f.actualdeparture) AS year,
+        EXTRACT(MONTH FROM f.actualdeparture) AS month,
+        EXTRACT(DAY FROM f.actualdeparture) AS day
 FROM flights f
 -- f.kind, es redundante porque en flights todos son tipo flight
 -- f.cancelled, igual es redundante si sabemos que cuando no es null, actualdeparture y actualarrival son null
 -- los delaycode que no son null o '', se asumiran como que no hay delay
 
 SELECT m.aircraftregistration,
-        CAST(m.actualdeparture AS DATE) AS timeID,  -- se asume que actualdeparture es el timeID
-        m.scheduleddeparture AS scheduledmaintenancestart,
-        m.scheduledarrival AS scheduledmaintenanceend,
+        m.scheduleddeparture,
+        m.scheduledarrival,
         m.programmed
 FROM maintenance m
 -- f.kind, es redundante porque en main todos son tipo main
@@ -40,23 +41,17 @@ FROM technicallogbookorders t
 -- ---------------- --
 
 -- AircraftDimension
-SELECT a.aircraft_reg_code as 
+SELECT a.aircraft_reg_code
         a.aircraft_model,
         a.manufacturer
 FROM aircrafts a
 
 -- TemporalDimension
-SELECT  CAST(f.actualdeparture AS DATE) AS ID,  -- se asume que actualdeparture es el timeID
-        EXTRACT(DAY FROM f.actualdeparture) AS day,
-        EXTRACT(MONTH FROM f.actualdeparture) AS month,
-        EXTRACT(YEAR FROM f.actualdeparture) AS year
-FROM flights f
-
-SELECT  CAST(m.scheduleddeparture AS DATE) AS ID,  -- se asume que scheduleddeparture es el timeID
-        EXTRACT(DAY FROM m.scheduleddeparture) AS day,
-        EXTRACT(MONTH FROM m.scheduleddeparture) AS month,
-        EXTRACT(YEAR FROM m.scheduleddeparture) AS year
-FROM maintenance m
+SELECT  CAST(s.scheduleddeparture AS DATE) AS ID,  -- se asume que scheduleddeparture es el timeID
+        EXTRACT(DAY FROM s.scheduleddeparture) AS day,
+        EXTRACT(MONTH FROM s.scheduleddeparture) AS month,
+        EXTRACT(YEAR FROM s.scheduleddeparture) AS year
+FROM slots s
 
 SELECT t.executiondate AS ID, -- time es cuando se ejecuta o cuando se registra?????
         EXTRACT(DAY FROM t.executiondate) AS day,
