@@ -1,6 +1,0 @@
-1. Business Rule 14 como? 
-
-2. Hacen falta comproabr Business de tablas que no utilizamos, y de los atributos??
-
-3. ADIS es el complementario? que le parece el esquema del github?
-
