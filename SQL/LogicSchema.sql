@@ -8,32 +8,32 @@
 
 CREATE TABLE AircraftUtilizationMetrics
 (
-    aircraftID CHAR(6),
-    timeID DATE,
-    flight_hours INT,
-    take_offs INT,
-    delay_count INT,
-    cancellation_count INT,
-    days_out_of_service_schedule INT,
-    days_out_of_service_unschedule INT,
-    days_in_service INT,
-    PRIMARY KEY (aircraftID, timeID),
-    FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID),
-    FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID)
+    aircraftID VARCHAR(6),
+    dateID VARCHAR(10),
+    flight_hours_count FLOAT NOT NULL,
+    take_offs_count INT NOT NULL,
+    delay_count INT NOT NULL,
+    delay_min_count FLOAT NOT NULL,
+    cancelled_count INT NOT NULL,
+    days_out_of_service_scheduled FLOAT NOT NULL,
+    days_out_of_service_unscheduled FLOAT NOT NULL,
+    PRIMARY KEY (aircraftID, dateID),
+    FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(aircraftID),
+    FOREIGN KEY (dateID) REFERENCES TemporalDimension(dateID)
 );
 
 
 CREATE TABLE LogBookMetrics
 (
-    aircraftID CHAR(6),
-    timeID DATE,
-    airportID CHAR(3),
-    pilot_logbook_count INT,
-    manintenance_logbook_count INT,
-    PRIMARY KEY (aircraftID, timeID),
-    FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(ID),
-    FOREIGN KEY (timeID) REFERENCES TemporalDimension(ID),
-    FOREIGN KEY (airportID) REFERENCES AirportDimension(ID)
+    aircraftID VARCHAR(6),
+    dateID VARCHAR(10),
+    reporteurID INT,
+    pilot_logbook_count INT NOT NULL,
+    maintenance_logbook_count INT NOT NULL,
+    PRIMARY KEY (aircraftID, dateID, reporteourID),
+    FOREIGN KEY (aircraftID) REFERENCES AircraftDimension(airctaftID),
+    FOREIGN KEY (dateID) REFERENCES TemporalDimension(dateID),
+    FOREIGN KEY (reporteurID) REFERENCES AirportDimension(reporteurID)
 )
 
 -- ---------------- --
@@ -42,23 +42,23 @@ CREATE TABLE LogBookMetrics
 
 CREATE TABLE AircraftDimension
 (
-    ID CHAR(6),
-    aircraft_model VARCHAR2(100) NOT NULL,
-    manufacturer VARCHAR2(100) NOT NULL,
-    PRIMARY KEY (ID)
+    aircraftID VARCHAR(6),
+    aircraft_model VARCHAR2(14) NOT NULL,
+    manufacturer VARCHAR2(6) NOT NULL,
+    PRIMARY KEY (aircraftID)
 );
 
 CREATE TABLE TemporalDimension
 (
-    ID DATE,
-    month NUMBER(2) NOT NULL,
-    year NUMBER(4) NOT NULL,
-    PRIMARY KEY (ID),
+    dateID VARCHAR(10),
+    month INT NOT NULL,
+    year INT NOT NULL,
+    PRIMARY KEY (dateID),
 );
 
 CREATE TABLE AirportDimension
 (
-    ID CHAR(3),
-    airport CHAR(3),
-    PRIMARY KEY (ID)
+    reporteurID INT,
+    airport VARCHAR(3) NOT NULL,
+    PRIMARY KEY (reporteurID)
 );
