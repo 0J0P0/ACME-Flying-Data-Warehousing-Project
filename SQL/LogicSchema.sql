@@ -43,8 +43,8 @@ CREATE TABLE LogBookMetrics
 CREATE TABLE AircraftDimension
 (
     aircraftID VARCHAR(6),
-    aircraft_model VARCHAR2(14) NOT NULL,
-    manufacturer VARCHAR2(6) NOT NULL,
+    aircraft_model VARCHAR(14) NOT NULL,
+    manufacturer VARCHAR(6) NOT NULL,
     PRIMARY KEY (aircraftID)
 );
 
@@ -53,7 +53,7 @@ CREATE TABLE TemporalDimension
     dateID VARCHAR(10),
     month INT NOT NULL,
     year INT NOT NULL,
-    PRIMARY KEY (dateID),
+    PRIMARY KEY (dateID)
 );
 
 CREATE TABLE AirportDimension
