@@ -43,25 +43,22 @@ CREATE TABLE LogBookMetrics
 CREATE TABLE AircraftDimension
 (
     ID CHAR(6),
-    model VARCHAR2(100) NOT NULL,
+    aircraft_model VARCHAR2(100) NOT NULL,
     manufacturer VARCHAR2(100) NOT NULL,
     PRIMARY KEY (ID)
 );
 
 CREATE TABLE TemporalDimension
 (
-    ID DATE,  -- tenemos uno por cada dia del año desde 2010 hasta 2017
-    day NUMBER(2) NOT NULL,  -- repetido
-    month CHAR(7) NOT NULL,
+    ID DATE,
+    month NUMBER(2) NOT NULL,
     year NUMBER(4) NOT NULL,
     PRIMARY KEY (ID),
 );
--- group by day != group by timeid
--- group by timeid es como no hacer group by --> quitarlo del aggregate
 
 CREATE TABLE AirportDimension
 (
     ID CHAR(3),
-    airport VARCHAR2(100) NOT NULL,
+    airport CHAR(3),
     PRIMARY KEY (ID)
 );
