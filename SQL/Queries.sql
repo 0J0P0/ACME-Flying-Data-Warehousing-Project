@@ -31,7 +31,27 @@ GROUP BY a."aircraftID", t."month"
 ORDER BY a."aircraftID", t."month";
 
 
+-- COMO FUNCIONAN LAS QUERIES SI NO HEMOS DEFINIDO LAS FK?
+
 -- Give me the RRh, RRc, PRRh, PRRc, MRRh and MRRc per aircraft (also per model and manufacturer) per month (also per year)
+SELECT lbmv."aircraftID",
+        lbmv.month,
+        SUM(lbmv."RRh"),
+        SUM(lbmv."RRc"),
+        SUM(lbmv."PRRh"),
+        SUM(lbmv."PRRc"),
+        SUM(lbmv."MRRh"),
+        SUM(lbmv."MRRc")
+FROM "LogBookMetricsView" lbmv
+GROUP BY lbmv."aircraftID", lbmv.month
+ORDER BY lbmv."aircraftID", lbmv.month;
 
 
 -- Give me the MRRh and MRRc per airport of the reporting person per aircraft (also per model)
+SELECT lbmv."aircraftID",
+        lbmv."airport",
+        SUM(lbmv."MRRh"),
+        SUM(lbmv."MRRc")
+FROM "LogBookMetricsView" lbmv
+GROUP BY lbmv."aircraftID", lbmv."airport"
+ORDER BY lbmv."aircraftID", lbmv."airport";
