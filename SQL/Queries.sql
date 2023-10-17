@@ -36,12 +36,12 @@ ORDER BY a."aircraftID", t."month";
 -- Give me the RRh, RRc, PRRh, PRRc, MRRh and MRRc per aircraft (also per model and manufacturer) per month (also per year)
 SELECT lbmv."aircraftID",
         lbmv.month,
-        SUM(lbmv."RRh"),
-        SUM(lbmv."RRc"),
-        SUM(lbmv."PRRh"),
-        SUM(lbmv."PRRc"),
-        SUM(lbmv."MRRh"),
-        SUM(lbmv."MRRc")
+        AVG(lbmv."RRh"),
+        AVG(lbmv."RRc"),
+        AVG(lbmv."PRRh"),
+        AVG(lbmv."PRRc"),
+        AVG(lbmv."MRRh"),
+        AVG(lbmv."MRRc")
 FROM "LogBookMetricsView" lbmv
 GROUP BY lbmv."aircraftID", lbmv.month
 ORDER BY lbmv."aircraftID", lbmv.month;
@@ -50,8 +50,8 @@ ORDER BY lbmv."aircraftID", lbmv.month;
 -- Give me the MRRh and MRRc per airport of the reporting person per aircraft (also per model)
 SELECT lbmv."aircraftID",
         lbmv."airport",
-        SUM(lbmv."MRRh"),
-        SUM(lbmv."MRRc")
+        AVG(lbmv."MRRh"),
+        AVG(lbmv."MRRc")
 FROM "LogBookMetricsView" lbmv
 GROUP BY lbmv."aircraftID", lbmv."airport"
 ORDER BY lbmv."aircraftID", lbmv."airport";
