@@ -58,8 +58,8 @@ CREATE TABLE "LogBookMetrics"
     "reporteurID" INT,
     pilot_logbook_count INT NOT NULL,
     maintenance_logbook_count INT NOT NULL,
-    PRIMARY KEY ("aircraftID", "dateID", reporteourID),
-    FOREIGN KEY ("aircraftID") REFERENCES "AircraftDimension"(airctaftID),
+    PRIMARY KEY ("aircraftID", "dateID", "reporteourID"),
+    FOREIGN KEY ("aircraftID") REFERENCES "AircraftDimension"("airctaftID"),
     FOREIGN KEY ("dateID") REFERENCES "TemporalDimension"("dateID"),
     FOREIGN KEY ("reporteurID") REFERENCES "AirportDimension"("reporteurID")
 )
