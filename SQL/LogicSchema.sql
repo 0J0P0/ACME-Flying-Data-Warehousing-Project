@@ -25,6 +25,7 @@ CREATE TABLE "TemporalDimension"
 CREATE TABLE "AirportDimension"
 (
     "reporteurID" INT,
+    reporteourclass VARCHAR(5) NOT NULL,
     airport VARCHAR(3) NOT NULL,
     PRIMARY KEY ("reporteurID")
 );
@@ -46,8 +47,6 @@ CREATE TABLE "AircraftUtilizationMetrics"
     days_out_of_service_scheduled FLOAT NOT NULL,
     days_out_of_service_unscheduled FLOAT NOT NULL,
     PRIMARY KEY ("aircraftID", "dateID"),
-    -- FOREIGN KEY ("aircraftID") REFERENCES "AircraftDimension"("aircraftID"),
-    -- FOREIGN KEY ("dateID") REFERENCES "TemporalDimension"("dateID")
 );
 
 -- ALTER TABLE "AircraftUtilizationMetrics"
@@ -75,9 +74,6 @@ CREATE TABLE "LogBookMetrics"
     pilot_logbook_count INT NOT NULL,
     maintenance_logbook_count INT NOT NULL,
     PRIMARY KEY ("aircraftID", "dateID", "reporteourID"),
-    -- FOREIGN KEY ("aircraftID") REFERENCES "AircraftDimension"("airctaftID"),
-    -- FOREIGN KEY ("dateID") REFERENCES "TemporalDimension"("dateID"),
-    -- FOREIGN KEY ("reporteurID") REFERENCES "AirportDimension"("reporteurID")
 )
 
 -- ALTER TABLE "LogBookMetrics"
