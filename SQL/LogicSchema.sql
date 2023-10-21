@@ -25,7 +25,7 @@ CREATE TABLE "TemporalDimension"
 CREATE TABLE "AirportDimension"
 (
     "reporteurID" INT,
-    reporteourclass VARCHAR(5) NOT NULL,
+    reporteurclass VARCHAR(5) NOT NULL,
     airport VARCHAR(3) NOT NULL,
     PRIMARY KEY ("reporteurID")
 );
@@ -71,9 +71,8 @@ CREATE TABLE "LogBookMetrics"
     "aircraftID" VARCHAR(6),
     "dateID" VARCHAR(10),
     "reporteurID" INT,
-    pilot_logbook_count INT NOT NULL,
-    maintenance_logbook_count INT NOT NULL,
-    PRIMARY KEY ("aircraftID", "dateID", "reporteourID"),
+    logbook_count INT NOT NULL,
+    PRIMARY KEY ("aircraftID", "dateID", "reporteurID"),
 )
 
 -- ALTER TABLE "LogBookMetrics"
