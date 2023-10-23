@@ -47,7 +47,7 @@ GROUP BY a."aircraftID", t."month"
 ORDER BY a."aircraftID", t."month";     
 
 
--- Give me the RRh, RRc, PRRh, PRRc, MRRh and MRRc per aircraft (also per model and manufacturer) per month (also per year)
+-- c) Give me the RRh, RRc, PRRh, PRRc, MRRh and MRRc per aircraft (also per model and manufacturer) per month (also per year)
 SELECT lbmv."aircraftID",
         lbmv.month,
         CASE
@@ -57,27 +57,27 @@ SELECT lbmv."aircraftID",
         END AS "RRh",
         CASE
                 WHEN SUM(lbmv.take_offs_count) > 0
-                THEN 1000 * SUM(lbmv.cancelled_count)/SUM(lbmv.take_offs_count)
+                THEN 100 * SUM(lbmv.logbook_count)/SUM(lbmv.take_offs_count)
                 ELSE 0
         END AS "RRc",
         CASE
-                WHEN SUM(lbmv.flight_hours_count) > 0 AND lbmv.reporteurclass = 'PIREP'
-                THEN 1000 * SUM(lbmv.logbook_count)/SUM(lbmv.flight_hours_count)
+                WHEN SUM(lbmv.flight_hours_count) > 0
+                THEN 1000 * SUM(lbmv.logbook_count*(lbmv.reporteurclass='PIREP')::INTEGER)/SUM(lbmv.flight_hours_count)
                 ELSE 0
         END AS "PRRh",
         CASE
-                WHEN SUM(lbmv.take_offs_count) > 0 AND lbmv.reporteurclass = 'PIREP'
-                THEN 100 * SUM(lbmv.logbook_count)/SUM(lbmv.take_offs_count)
+                WHEN SUM(lbmv.take_offs_count) > 0
+                THEN 100 * SUM(lbmv.logbook_count*(lbmv.reporteurclass='PIREP')::INTEGER)/SUM(lbmv.take_offs_count)
                 ELSE 0
         END AS "PRRc",
         CASE
-                WHEN SUM(lbmv.flight_hours_count) > 0 AND lbmv.reporteurclass = 'MAREP'
-                THEN 1000 * SUM(lbmv.logbook_count)/SUM(lbmv.flight_hours_count)
+                WHEN SUM(lbmv.flight_hours_count) > 0
+                THEN 1000 * SUM(lbmv.logbook_count*(lbmv.reporteurclass='MAREP')::INTEGER)/SUM(lbmv.flight_hours_count)
                 ELSE 0
         END AS "MRRh",
         CASE
-                WHEN SUM(lbmv.take_offs_count) > 0 AND lbmv.reporteurclass = 'MAREP'
-                THEN 100 * SUM(lbmv.logbook_count)/SUM(lbmv.take_offs_count)
+                WHEN SUM(lbmv.take_offs_count) > 0
+                THEN 100 * SUM(lbmv.logbook_count*(lbmv.reporteurclass='MAREP')::INTEGER)/SUM(lbmv.take_offs_count)
                 ELSE 0
         END AS "MRRc"
 FROM "LogBookMetricsView" lbmv
