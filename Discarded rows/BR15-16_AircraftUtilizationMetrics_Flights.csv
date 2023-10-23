@@ -1,0 +1,863 @@
+XY-FBA;03-02-2010;03-02-2010;;;true;  ;030210-BMA-VCE-9614-XY-FBA;VCE;BMA;advanced condition failed
+XY-OHF;18-06-2015;18-06-2015;18-06-2015;18-06-2015;false;;180615-LHR-GRO-7326-XY-OHF;GRO;LHR;advanced condition failed
+XY-OHF;14-11-2015;14-11-2015;14-11-2015;14-11-2015;false;;141115-BCN-KTW-8573-XY-OHF;KTW;BCN;advanced condition failed
+XY-ALV;17-10-2014;17-10-2014;17-10-2014;17-10-2014;false;;171014-SKP-FRA-8744-XY-ALV;FRA;SKP;advanced condition failed
+XY-CMJ;20-02-2016;20-02-2016;20-02-2016;20-02-2016;false;;200216-TRD-MRS-4641-XY-CMJ;MRS;TRD;advanced condition failed
+XY-MBJ;23-07-2014;23-07-2014;23-07-2014;24-07-2014;false;;230714-PRN-FSC-2668-XY-MBJ;FSC;PRN;advanced condition failed
+XY-OZH;11-08-2012;11-08-2012;11-08-2012;11-08-2012;false;;110812-BSL-OLB-3157-XY-OZH;OLB;BSL;advanced condition failed
+XY-NMY;12-02-2015;12-02-2015;12-02-2015;12-02-2015;false;;120215-GOA-VNO-7314-XY-NMY;VNO;GOA;advanced condition failed
+XY-JXR;19-06-2014;19-06-2014;19-06-2014;19-06-2014;false;;190614-SOF-BES-3667-XY-JXR;BES;SOF;advanced condition failed
+XY-LQZ;17-01-2013;17-01-2013;17-01-2013;17-01-2013;false;;170113-NOC-TRD-8457-XY-LQZ;TRD;NOC;advanced condition failed
+XY-OHF;19-04-2015;19-04-2015;19-04-2015;19-04-2015;false;;190415-ZTH-FKB-7881-XY-OHF;FKB;ZTH;advanced condition failed
+XY-MBJ;06-07-2016;05-07-2016;06-07-2016;06-07-2016;false;;060716-LNZ-TRF-5174-XY-MBJ;TRF;LNZ;advanced condition failed
+XY-YTM;13-03-2015;13-03-2015;13-03-2015;13-03-2015;false;;130315-TRN-RHO-9116-XY-YTM;RHO;TRN;advanced condition failed
+XY-MBJ;02-06-2015;02-06-2015;03-06-2015;03-06-2015;false;;020615-KUN-ADB-9782-XY-MBJ;ADB;KUN;advanced condition failed
+XY-CMJ;06-08-2013;06-08-2013;06-08-2013;06-08-2013;false;;060813-MRS-JTR-8671-XY-CMJ;JTR;MRS;advanced condition failed
+XY-PZC;07-06-2010;07-06-2010;07-06-2010;07-06-2010;false;;070610-KUN-ESB-3739-XY-PZC;ESB;KUN;advanced condition failed
+XY-YTM;14-11-2012;14-11-2012;14-11-2012;14-11-2012;false;;141112-DLM-REU-1155-XY-YTM;REU;DLM;advanced condition failed
+XY-PZC;23-12-2010;22-12-2010;23-12-2010;23-12-2010;false;;231210-MAD-KGS-2227-XY-PZC;KGS;MAD;advanced condition failed
+XY-ZDY;25-06-2010;25-06-2010;25-06-2010;25-06-2010;false;;250610-TBS-TRD-3351-XY-ZDY;TRD;TBS;advanced condition failed
+XY-IOO;29-08-2016;28-08-2016;29-08-2016;29-08-2016;false;;290816-BTS-ANR-1264-XY-IOO;ANR;BTS;advanced condition failed
+XY-ALV;27-06-2011;27-06-2011;27-06-2011;27-06-2011;false;;270611-TFN-PUY-5613-XY-ALV;PUY;TFN;advanced condition failed
+XY-YAZ;24-09-2010;24-09-2010;24-09-2010;24-09-2010;false;;240910-MAH-EXT-5821-XY-YAZ;EXT;MAH;advanced condition failed
+XY-ZDY;05-05-2014;05-05-2014;05-05-2014;05-05-2014;false;;050514-LEI-ADA-5512-XY-ZDY;ADA;LEI;advanced condition failed
+XY-JXR;28-04-2015;28-04-2015;28-04-2015;28-04-2015;false;;280415-PIK-FAE-1672-XY-JXR;FAE;PIK;advanced condition failed
+XY-LYP;11-06-2011;11-06-2011;11-06-2011;11-06-2011;false;;110611-RVN-TSF-8439-XY-LYP;TSF;RVN;advanced condition failed
+XY-ZMF;11-06-2015;11-06-2015;11-06-2015;11-06-2015;false;;110615-HHN-ARN-8249-XY-ZMF;ARN;HHN;advanced condition failed
+XY-NMY;02-12-2012;02-12-2012;02-12-2012;02-12-2012;false;;021212-PMI-FUE-6918-XY-NMY;FUE;PMI;advanced condition failed
+XY-NHZ;02-03-2010;02-03-2010;02-03-2010;02-03-2010;false;;020310-VKO-SKG-2988-XY-NHZ;SKG;VKO;advanced condition failed
+XY-LYP;07-07-2011;07-07-2011;08-07-2011;08-07-2011;false;;070711-ABZ-BIO-2536-XY-LYP;BIO;ABZ;advanced condition failed
+XY-YTM;11-05-2010;11-05-2010;11-05-2010;12-05-2010;false;;110510-BGY-CWL-3937-XY-YTM;CWL;BGY;advanced condition failed
+XY-LQZ;25-11-2013;25-11-2013;25-11-2013;25-11-2013;false;;251113-EVN-ALA-8384-XY-LQZ;ALA;EVN;advanced condition failed
+XY-IWX;13-12-2016;13-12-2016;13-12-2016;13-12-2016;false;;131216-AHO-TLL-2967-XY-IWX;TLL;AHO;advanced condition failed
+XY-CMJ;06-05-2015;06-05-2015;06-05-2015;06-05-2015;false;;060515-GLA-LNZ-7162-XY-CMJ;LNZ;GLA;advanced condition failed
+XY-MBJ;03-04-2010;03-04-2010;03-04-2010;03-04-2010;false;;030410-PSA-BEG-5816-XY-MBJ;BEG;PSA;advanced condition failed
+XY-LYP;04-10-2014;04-10-2014;04-10-2014;04-10-2014;false;;041014-HAJ-SNN-4357-XY-LYP;SNN;HAJ;advanced condition failed
+XY-ZMF;06-07-2013;06-07-2013;06-07-2013;06-07-2013;false;;060713-SKG-ADB-2749-XY-ZMF;ADB;SKG;advanced condition failed
+XY-OZH;18-01-2016;18-01-2016;18-01-2016;18-01-2016;false;;180116-HAJ-PRG-8777-XY-OZH;PRG;HAJ;advanced condition failed
+XY-NMY;05-04-2015;05-04-2015;05-04-2015;05-04-2015;false;;050415-KEF-GOT-9547-XY-NMY;GOT;KEF;advanced condition failed
+XY-JXR;27-11-2014;27-11-2014;27-11-2014;27-11-2014;false;;271114-LCA-GOA-7596-XY-JXR;GOA;LCA;advanced condition failed
+XY-ZMF;10-03-2015;10-03-2015;10-03-2015;10-03-2015;false;;100315-MXP-STN-2286-XY-ZMF;STN;MXP;advanced condition failed
+XY-ZMF;27-03-2011;27-03-2011;27-03-2011;27-03-2011;false;;270311-BOJ-WMI-4738-XY-ZMF;WMI;BOJ;advanced condition failed
+XY-ZWJ;15-12-2015;15-12-2015;15-12-2015;15-12-2015;false;;151215-PUY-PAD-6813-XY-ZWJ;PAD;PUY;advanced condition failed
+XY-PZC;09-07-2016;09-07-2016;09-07-2016;09-07-2016;false;;090716-CIY-SVO-7138-XY-PZC;SVO;CIY;advanced condition failed
+XY-OZH;21-09-2016;21-09-2016;21-09-2016;21-09-2016;false;;210916-SNN-VAR-6674-XY-OZH;VAR;SNN;advanced condition failed
+XY-ZMF;12-04-2012;12-04-2012;12-04-2012;12-04-2012;false;;120412-KBP-SPU-5195-XY-ZMF;SPU;KBP;advanced condition failed
+XY-YTM;06-09-2016;06-09-2016;06-09-2016;06-09-2016;false;;060916-BHD-MMX-3685-XY-YTM;MMX;BHD;advanced condition failed
+XY-NHZ;08-07-2015;08-07-2015;08-07-2015;08-07-2015;false;;080715-BJV-PUY-7422-XY-NHZ;PUY;BJV;advanced condition failed
+XY-PZC;28-05-2012;28-05-2012;28-05-2012;28-05-2012;false;;280512-SDR-SXF-6259-XY-PZC;SXF;SDR;advanced condition failed
+XY-IWX;11-06-2013;11-06-2013;11-06-2013;11-06-2013;false;;110613-PSA-HER-1816-XY-IWX;HER;PSA;advanced condition failed
+XY-ZWJ;02-08-2014;02-08-2014;02-08-2014;03-08-2014;false;;020814-AYT-XRY-1746-XY-ZWJ;XRY;AYT;advanced condition failed
+XY-YAZ;01-07-2012;01-07-2012;01-07-2012;01-07-2012;false;;010712-HUY-RNS-7278-XY-YAZ;RNS;HUY;advanced condition failed
+XY-NHZ;01-01-2012;01-01-2012;01-01-2012;01-01-2012;false;;010112-DUS-DLM-2659-XY-NHZ;DLM;DUS;advanced condition failed
+XY-NMY;13-07-2014;13-07-2014;13-07-2014;13-07-2014;false;;130714-BCN-BVA-6437-XY-NMY;BVA;BCN;advanced condition failed
+XY-OZH;27-06-2013;27-06-2013;27-06-2013;27-06-2013;false;;270613-ZAG-DRS-7973-XY-OZH;DRS;ZAG;advanced condition failed
+XY-LQZ;05-11-2010;05-11-2010;05-11-2010;05-11-2010;false;;051110-BGO-PMI-2561-XY-LQZ;PMI;BGO;advanced condition failed
+XY-JXR;29-08-2013;29-08-2013;29-08-2013;29-08-2013;false;;290813-WAW-PFO-8384-XY-JXR;PFO;WAW;advanced condition failed
+XY-ZMF;26-07-2016;26-07-2016;26-07-2016;26-07-2016;false;;260716-JTR-EVN-4339-XY-ZMF;EVN;JTR;advanced condition failed
+XY-NHZ;06-08-2015;06-08-2015;06-08-2015;06-08-2015;false;;060815-SEN-BRQ-2638-XY-NHZ;BRQ;SEN;advanced condition failed
+XY-LQZ;07-04-2010;07-04-2010;07-04-2010;07-04-2010;false;;070410-LCA-FNC-1273-XY-LQZ;FNC;LCA;advanced condition failed
+XY-JXR;04-10-2010;04-10-2010;04-10-2010;04-10-2010;false;;041010-SJJ-CAG-7696-XY-JXR;CAG;SJJ;advanced condition failed
+XY-MBJ;01-04-2012;01-04-2012;01-04-2012;01-04-2012;false;;010412-MAN-KBP-8992-XY-MBJ;KBP;MAN;advanced condition failed
+XY-ALV;28-10-2014;28-10-2014;28-10-2014;28-10-2014;false;;281014-RIX-BRU-8633-XY-ALV;BRU;RIX;advanced condition failed
+XY-ZMF;17-01-2014;17-01-2014;17-01-2014;17-01-2014;false;;170114-MMX-IST-7841-XY-ZMF;IST;MMX;advanced condition failed
+XY-IOO;11-06-2015;11-06-2015;11-06-2015;11-06-2015;false;;110615-TRF-BES-4887-XY-IOO;BES;TRF;advanced condition failed
+XY-NHZ;26-09-2012;26-09-2012;26-09-2012;26-09-2012;false;;260912-CAG-SKG-2462-XY-NHZ;SKG;CAG;advanced condition failed
+XY-CMJ;20-08-2012;20-08-2012;20-08-2012;20-08-2012;false;;200812-TSF-LIL-3394-XY-CMJ;LIL;TSF;advanced condition failed
+XY-FBA;16-03-2013;16-03-2013;16-03-2013;16-03-2013;false;;160313-POZ-NCL-9231-XY-FBA;NCL;POZ;advanced condition failed
+XY-FBA;25-11-2012;24-11-2012;25-11-2012;25-11-2012;false;;251112-TXL-TIV-5647-XY-FBA;TIV;TXL;advanced condition failed
+XY-PZC;31-12-2014;31-12-2014;31-12-2014;31-12-2014;false;;311214-BOJ-DUB-9475-XY-PZC;DUB;BOJ;advanced condition failed
+XY-OFW;24-10-2015;24-10-2015;24-10-2015;24-10-2015;false;;241015-LIS-FKB-6254-XY-OFW;FKB;LIS;advanced condition failed
+XY-LQZ;23-04-2013;23-04-2013;23-04-2013;23-04-2013;false;;230413-NAP-INN-1742-XY-LQZ;INN;NAP;advanced condition failed
+XY-OZH;20-06-2015;20-06-2015;20-06-2015;21-06-2015;false;;200615-DUB-PSA-4736-XY-OZH;PSA;DUB;advanced condition failed
+XY-OHF;26-10-2015;26-10-2015;26-10-2015;26-10-2015;false;;261015-RHO-KLU-6991-XY-OHF;KLU;RHO;advanced condition failed
+XY-IOO;29-08-2013;29-08-2013;29-08-2013;29-08-2013;false;;290813-LUX-NYO-5658-XY-IOO;NYO;LUX;advanced condition failed
+XY-IWX;06-11-2013;05-11-2013;06-11-2013;06-11-2013;false;;061113-ALC-CIY-4737-XY-IWX;CIY;ALC;advanced condition failed
+XY-FBA;06-07-2012;06-07-2012;06-07-2012;06-07-2012;false;;060712-GYD-DLM-2824-XY-FBA;DLM;GYD;advanced condition failed
+XY-ZMF;30-01-2012;30-01-2012;30-01-2012;30-01-2012;false;;300112-BFS-SNN-6297-XY-ZMF;SNN;BFS;advanced condition failed
+XY-IWX;11-09-2016;11-09-2016;11-09-2016;11-09-2016;false;;110916-STN-BGY-9671-XY-IWX;BGY;STN;advanced condition failed
+XY-ALV;09-06-2011;09-06-2011;09-06-2011;09-06-2011;false;;090611-FCO-INI-6251-XY-ALV;INI;FCO;advanced condition failed
+XY-CMJ;31-07-2013;31-07-2013;31-07-2013;31-07-2013;false;;310713-BRU-GOT-7855-XY-CMJ;GOT;BRU;advanced condition failed
+XY-IWX;23-01-2011;23-01-2011;23-01-2011;23-01-2011;false;;230111-CPH-TBS-5783-XY-IWX;TBS;CPH;advanced condition failed
+XY-MBJ;09-12-2012;09-12-2012;09-12-2012;09-12-2012;false;;091212-SXF-BTS-6338-XY-MBJ;BTS;SXF;advanced condition failed
+XY-PZC;24-07-2016;23-07-2016;24-07-2016;24-07-2016;false;;240716-TKU-BOJ-5525-XY-PZC;BOJ;TKU;advanced condition failed
+XY-CMJ;20-05-2014;20-05-2014;20-05-2014;20-05-2014;false;;200514-AMS-FMO-7674-XY-CMJ;FMO;AMS;advanced condition failed
+XY-ZMF;24-10-2016;24-10-2016;24-10-2016;24-10-2016;false;;241016-ANR-ADA-4418-XY-ZMF;ADA;ANR;advanced condition failed
+XY-CMJ;07-12-2013;07-12-2013;08-12-2013;08-12-2013;false;;071213-POZ-KBP-9549-XY-CMJ;KBP;POZ;advanced condition failed
+XY-ZWJ;08-10-2016;08-10-2016;08-10-2016;08-10-2016;false;;081016-ZAZ-SVX-7783-XY-ZWJ;SVX;ZAZ;advanced condition failed
+XY-LQZ;19-02-2016;19-02-2016;19-02-2016;19-02-2016;false;;190216-SVQ-ESB-5829-XY-LQZ;ESB;SVQ;advanced condition failed
+XY-LQZ;13-07-2012;13-07-2012;13-07-2012;13-07-2012;false;;130712-VAA-EMA-3176-XY-LQZ;EMA;VAA;advanced condition failed
+XY-IOO;04-01-2015;04-01-2015;04-01-2015;04-01-2015;false;;040115-SVG-NAP-7538-XY-IOO;NAP;SVG;advanced condition failed
+XY-YAZ;13-03-2016;12-03-2016;13-03-2016;13-03-2016;false;;130316-SZG-GDN-8658-XY-YAZ;GDN;SZG;advanced condition failed
+XY-LQZ;28-03-2010;28-03-2010;28-03-2010;28-03-2010;false;;280310-NCL-FUE-5172-XY-LQZ;FUE;NCL;advanced condition failed
+XY-OZH;10-11-2010;09-11-2010;10-11-2010;10-11-2010;false;;101110-SAW-OSL-7823-XY-OZH;OSL;SAW;advanced condition failed
+XY-OHF;23-08-2015;23-08-2015;23-08-2015;23-08-2015;false;;230815-CIY-REU-9552-XY-OHF;REU;CIY;advanced condition failed
+XY-ZMF;07-01-2012;07-01-2012;07-01-2012;07-01-2012;false;;070112-SPU-BOO-1863-XY-ZMF;BOO;SPU;advanced condition failed
+XY-JXR;12-03-2016;12-03-2016;;;true;  ;120316-LED-PRG-2863-XY-JXR;PRG;LED;advanced condition failed
+XY-NMY;02-04-2014;02-04-2014;;;true;  ;020414-RHO-DUB-7232-XY-NMY;DUB;RHO;advanced condition failed
+XY-FBA;15-01-2014;15-01-2014;;;true;  ;150114-JTR-IST-5464-XY-FBA;IST;JTR;advanced condition failed
+XY-IWX;22-11-2012;22-11-2012;;;true;  ;221112-MRS-SOF-7822-XY-IWX;SOF;MRS;advanced condition failed
+XY-IWX;03-01-2010;03-01-2010;;;true;  ;030110-LGW-MST-1511-XY-IWX;MST;LGW;advanced condition failed
+XY-YTM;16-09-2015;16-09-2015;;;true;  ;160915-CFU-REU-7314-XY-YTM;REU;CFU;advanced condition failed
+XY-NMY;30-09-2012;30-09-2012;;;true;  ;300912-POZ-ADB-2445-XY-NMY;ADB;POZ;advanced condition failed
+XY-YTM;23-03-2013;23-03-2013;;;true;  ;230313-LIN-DLM-2827-XY-YTM;DLM;LIN;advanced condition failed
+XY-JXR;22-11-2012;21-11-2012;;;true;  ;221112-SUF-FKB-3589-XY-JXR;FKB;SUF;advanced condition failed
+XY-CMJ;17-08-2015;17-08-2015;;;true;  ;170815-SPC-WAW-6552-XY-CMJ;WAW;SPC;advanced condition failed
+XY-ALV;30-03-2016;30-03-2016;;;true;  ;300316-KUN-LWO-1563-XY-ALV;LWO;KUN;advanced condition failed
+XY-OZH;15-06-2013;15-06-2013;;;true;  ;150613-SPC-LUX-6533-XY-OZH;LUX;SPC;advanced condition failed
+XY-MBJ;08-09-2016;08-09-2016;;;true;  ;080916-MAH-CIA-7918-XY-MBJ;CIA;MAH;advanced condition failed
+XY-IOO;26-11-2015;26-11-2015;;;true;  ;261115-MUC-RUN-6294-XY-IOO;RUN;MUC;advanced condition failed
+XY-FBA;03-10-2010;02-10-2010;;;true;  ;031010-TLL-BSL-6499-XY-FBA;BSL;TLL;advanced condition failed
+XY-OZH;24-11-2013;24-11-2013;;;true;  ;241113-PEG-JMK-4985-XY-OZH;JMK;PEG;advanced condition failed
+XY-FBA;02-03-2011;02-03-2011;;;true;  ;020311-ACE-FAE-7137-XY-FBA;FAE;ACE;advanced condition failed
+XY-IOO;13-05-2016;13-05-2016;;;true;  ;130516-VIE-BJV-7593-XY-IOO;BJV;VIE;advanced condition failed
+XY-IOO;18-01-2010;18-01-2010;;;true;  ;180110-LYS-VKO-2654-XY-IOO;VKO;LYS;advanced condition failed
+XY-ZWJ;13-05-2013;13-05-2013;;;true;  ;130513-TPS-MUC-8576-XY-ZWJ;MUC;TPS;advanced condition failed
+XY-NHZ;02-12-2014;02-12-2014;;;true;  ;021214-BJV-PEG-2713-XY-NHZ;PEG;BJV;advanced condition failed
+XY-ZDY;02-03-2010;02-03-2010;;;true;  ;020310-KRS-CPH-5676-XY-ZDY;CPH;KRS;advanced condition failed
+XY-MBJ;31-08-2016;31-08-2016;;;true;  ;310816-TSF-BRI-2817-XY-MBJ;BRI;TSF;advanced condition failed
+XY-LYP;24-06-2012;24-06-2012;;;true;  ;240612-VIE-TLS-8747-XY-LYP;TLS;VIE;advanced condition failed
+XY-NMY;20-01-2013;20-01-2013;20-01-2013;20-01-2013;false;;200113-KEF-SPU-5455-XY-NMY;SPU;KEF;advanced condition failed
+XY-JXR;26-08-2012;26-08-2012;26-08-2012;27-08-2012;false;;260812-NCE-ADA-3386-XY-JXR;ADA;NCE;advanced condition failed
+XY-IWX;06-04-2010;06-04-2010;;;true;  ;060410-SKG-ABZ-1347-XY-IWX;ABZ;SKG;advanced condition failed
+XY-FBA;30-05-2012;30-05-2012;;;true;  ;300512-LCA-ZAZ-9927-XY-FBA;ZAZ;LCA;advanced condition failed
+XY-ZWJ;24-10-2012;24-10-2012;;;true;  ;241012-NTE-NCE-3975-XY-ZWJ;NCE;NTE;advanced condition failed
+XY-LQZ;25-09-2012;25-09-2012;;;true;  ;250912-BSL-NCL-5199-XY-LQZ;NCL;BSL;advanced condition failed
+XY-YTM;01-06-2014;01-06-2014;;;true;  ;010614-MST-BFS-4653-XY-YTM;BFS;MST;advanced condition failed
+XY-ZDY;17-07-2016;17-07-2016;;;true;  ;170716-MMX-KLU-4896-XY-ZDY;KLU;MMX;advanced condition failed
+XY-ZDY;12-03-2015;12-03-2015;;;true;  ;120315-CRL-BJV-9113-XY-ZDY;BJV;CRL;advanced condition failed
+XY-OHF;05-02-2013;05-02-2013;;;true;  ;050213-ESB-LYS-3389-XY-OHF;LYS;ESB;advanced condition failed
+XY-PZC;17-08-2012;17-08-2012;;;true;  ;170812-TXL-LUX-6317-XY-PZC;LUX;TXL;advanced condition failed
+XY-ZDY;26-06-2010;26-06-2010;;;true;  ;260610-CFU-DUB-7336-XY-ZDY;DUB;CFU;advanced condition failed
+XY-CMJ;27-06-2014;26-06-2014;;;true;  ;270614-HAU-ANR-5514-XY-CMJ;ANR;HAU;advanced condition failed
+XY-LQZ;26-02-2014;26-02-2014;;;true;  ;260214-BRN-CLJ-3269-XY-LQZ;CLJ;BRN;advanced condition failed
+XY-MBJ;19-12-2012;19-12-2012;;;true;  ;191212-SNN-KUN-1391-XY-MBJ;KUN;SNN;advanced condition failed
+XY-OFW;19-09-2010;19-09-2010;;;true;  ;190910-SPC-TKU-4859-XY-OFW;TKU;SPC;advanced condition failed
+XY-ZWJ;27-04-2016;27-04-2016;;;true;  ;270416-BIQ-KUN-1928-XY-ZWJ;KUN;BIQ;advanced condition failed
+XY-ALV;13-05-2012;13-05-2012;;;true;  ;130512-LCY-BOO-8281-XY-ALV;BOO;LCY;advanced condition failed
+XY-CMJ;18-09-2014;18-09-2014;;;true;  ;180914-VCE-BDS-6143-XY-CMJ;BDS;VCE;advanced condition failed
+XY-ZMF;26-10-2013;26-10-2013;;;true;  ;261013-GYD-MSQ-3715-XY-ZMF;MSQ;GYD;advanced condition failed
+XY-YTM;05-01-2015;05-01-2015;;;true;  ;050115-MAN-BRN-4552-XY-YTM;BRN;MAN;advanced condition failed
+XY-CMJ;30-03-2012;30-03-2012;;;true;  ;300312-BOD-TSE-6921-XY-CMJ;TSE;BOD;advanced condition failed
+XY-MBJ;16-12-2015;15-12-2015;;;true;  ;161215-AMS-CTA-3388-XY-MBJ;CTA;AMS;advanced condition failed
+XY-PZC;03-07-2015;03-07-2015;;;true;  ;030715-LJU-TRF-4649-XY-PZC;TRF;LJU;advanced condition failed
+XY-YAZ;11-05-2016;10-05-2016;;;true;  ;110516-LBA-FDH-4146-XY-YAZ;FDH;LBA;advanced condition failed
+XY-YAZ;25-02-2010;25-02-2010;;;true;  ;250210-LIS-OUL-4383-XY-YAZ;OUL;LIS;advanced condition failed
+XY-IWX;15-05-2010;15-05-2010;;;true;  ;150510-SJJ-LGW-3166-XY-IWX;LGW;SJJ;advanced condition failed
+XY-NMY;27-03-2016;27-03-2016;;;true;  ;270316-DSA-WAW-9977-XY-NMY;WAW;DSA;advanced condition failed
+XY-JXR;20-03-2014;20-03-2014;;;true;  ;200314-ALC-SXF-4561-XY-JXR;SXF;ALC;advanced condition failed
+XY-FBA;24-08-2016;24-08-2016;;;true;  ;240816-LUG-SVQ-7215-XY-FBA;SVQ;LUG;advanced condition failed
+XY-JXR;19-12-2014;18-12-2014;;;true;  ;191214-AYT-BRN-9964-XY-JXR;BRN;AYT;advanced condition failed
+XY-FBA;27-04-2014;27-04-2014;;;true;  ;270414-SNN-LGW-6961-XY-FBA;LGW;SNN;advanced condition failed
+XY-ZWJ;21-02-2010;21-02-2010;;;true;  ;210210-HEL-SOF-7214-XY-ZWJ;SOF;HEL;advanced condition failed
+XY-OHF;10-04-2011;09-04-2011;;;true;  ;100411-AOI-BIO-4529-XY-OHF;BIO;AOI;advanced condition failed
+XY-YAZ;14-08-2015;14-08-2015;;;true;  ;140815-LED-KRS-6934-XY-YAZ;KRS;LED;advanced condition failed
+XY-LQZ;01-04-2016;01-04-2016;;;true;  ;010416-VAR-RUN-9355-XY-LQZ;RUN;VAR;advanced condition failed
+XY-LYP;16-07-2010;16-07-2010;;;true;  ;160710-BOO-OVD-9857-XY-LYP;OVD;BOO;advanced condition failed
+XY-CMJ;03-04-2014;02-04-2014;;;true;  ;030414-ABZ-DUS-1183-XY-CMJ;DUS;ABZ;advanced condition failed
+XY-OZH;27-10-2016;27-10-2016;;;true;  ;271016-FAE-DUS-3461-XY-OZH;DUS;FAE;advanced condition failed
+XY-LQZ;18-06-2013;18-06-2013;;;true;  ;180613-MUC-BIO-6823-XY-LQZ;BIO;MUC;advanced condition failed
+XY-IOO;06-03-2014;06-03-2014;;;true;  ;060314-SXF-BFS-1279-XY-IOO;BFS;SXF;advanced condition failed
+XY-YTM;26-02-2015;26-02-2015;;;true;  ;260215-BRU-MLA-2793-XY-YTM;MLA;BRU;advanced condition failed
+XY-OHF;19-05-2015;19-05-2015;;;true;  ;190515-WAW-BHD-1769-XY-OHF;BHD;WAW;advanced condition failed
+XY-NMY;28-08-2016;28-08-2016;;;true;  ;280816-LED-DEB-1989-XY-NMY;DEB;LED;advanced condition failed
+XY-MBJ;19-07-2011;19-07-2011;;;true;  ;190711-LBA-ORY-3534-XY-MBJ;ORY;LBA;advanced condition failed
+XY-ZWJ;14-06-2012;13-06-2012;;;true;  ;140612-SNN-BSL-3499-XY-ZWJ;BSL;SNN;advanced condition failed
+XY-ZDY;14-10-2014;14-10-2014;;;true;  ;141014-POZ-ACE-8789-XY-ZDY;ACE;POZ;advanced condition failed
+XY-NHZ;09-02-2016;09-02-2016;;;true;  ;090216-PRN-SXF-8859-XY-NHZ;SXF;PRN;advanced condition failed
+XY-CMJ;27-06-2010;27-06-2010;;;true;  ;270610-KRS-MMX-2926-XY-CMJ;MMX;KRS;advanced condition failed
+XY-IWX;08-10-2012;08-10-2012;;;true;  ;081012-BES-TLN-5116-XY-IWX;TLN;BES;advanced condition failed
+XY-NMY;13-10-2012;13-10-2012;;;true;  ;131012-INN-MMX-5418-XY-NMY;MMX;INN;advanced condition failed
+XY-OFW;01-06-2012;01-06-2012;;;true;  ;010612-INN-LIN-4698-XY-OFW;LIN;INN;advanced condition failed
+XY-NMY;01-11-2010;01-11-2010;;;true;  ;011110-SZG-WAW-5314-XY-NMY;WAW;SZG;advanced condition failed
+XY-CMJ;26-12-2010;26-12-2010;;;true;  ;261210-NTE-KTW-8255-XY-CMJ;KTW;NTE;advanced condition failed
+XY-OZH;14-12-2010;14-12-2010;;;true;  ;141210-BRE-OVD-2286-XY-OZH;OVD;BRE;advanced condition failed
+XY-NHZ;12-03-2015;11-03-2015;;;true;  ;120315-BHD-TRN-7235-XY-NHZ;TRN;BHD;advanced condition failed
+XY-JXR;01-07-2012;01-07-2012;;;true;  ;010712-BRE-GYD-7667-XY-JXR;GYD;BRE;advanced condition failed
+XY-IOO;06-02-2014;06-02-2014;;;true;  ;060214-ZAZ-SNN-4114-XY-IOO;SNN;ZAZ;advanced condition failed
+XY-MBJ;26-07-2016;26-07-2016;;;true;  ;260716-OTP-AJA-2986-XY-MBJ;AJA;OTP;advanced condition failed
+XY-FBA;08-11-2013;08-11-2013;;;true;  ;081113-TLN-LPA-1276-XY-FBA;LPA;TLN;advanced condition failed
+XY-MBJ;27-10-2012;27-10-2012;;;true;  ;271012-VAA-VKO-4144-XY-MBJ;VKO;VAA;advanced condition failed
+XY-CMJ;16-06-2013;16-06-2013;;;true;  ;160613-GRZ-ADA-2864-XY-CMJ;ADA;GRZ;advanced condition failed
+XY-NHZ;25-06-2011;25-06-2011;;;true;  ;250611-CHQ-STN-6621-XY-NHZ;STN;CHQ;advanced condition failed
+XY-OHF;03-01-2013;03-01-2013;;;true;  ;030113-OLB-POZ-4987-XY-OHF;POZ;OLB;advanced condition failed
+XY-MBJ;01-06-2012;01-06-2012;;;true;  ;010612-ADA-IAS-7662-XY-MBJ;IAS;ADA;advanced condition failed
+XY-OZH;19-09-2014;19-09-2014;;;true;  ;190914-ABZ-LGG-7616-XY-OZH;LGG;ABZ;advanced condition failed
+XY-CMJ;14-08-2016;14-08-2016;;;true;  ;140816-TIA-NUE-6498-XY-CMJ;NUE;TIA;advanced condition failed
+XY-FBA;26-08-2011;26-08-2011;;;true;  ;260811-BUD-AAR-9343-XY-FBA;AAR;BUD;advanced condition failed
+XY-CMJ;24-03-2011;24-03-2011;;;true;  ;240311-ODS-FMM-7817-XY-CMJ;FMM;ODS;advanced condition failed
+XY-NMY;17-08-2016;17-08-2016;;;true;  ;170816-ZRH-AMS-7764-XY-NMY;AMS;ZRH;advanced condition failed
+XY-LQZ;28-11-2016;28-11-2016;;;true;  ;281116-RHO-LGG-6136-XY-LQZ;LGG;RHO;advanced condition failed
+XY-ZDY;14-08-2013;14-08-2013;;;true;  ;140813-CHQ-BGO-2499-XY-ZDY;BGO;CHQ;advanced condition failed
+XY-IWX;25-10-2016;25-10-2016;;;true;  ;251016-HAU-BRU-3234-XY-IWX;BRU;HAU;advanced condition failed
+XY-LQZ;18-09-2012;17-09-2012;;;true;  ;180912-NRN-SNN-2642-XY-LQZ;SNN;NRN;advanced condition failed
+XY-ALV;06-10-2015;06-10-2015;;;true;  ;061015-INN-TPS-6199-XY-ALV;TPS;INN;advanced condition failed
+XY-FBA;17-10-2010;17-10-2010;;;true;  ;171010-TIA-BEG-1163-XY-FBA;BEG;TIA;advanced condition failed
+XY-MBJ;24-07-2015;24-07-2015;;;true;  ;240715-WAW-MXP-9281-XY-MBJ;MXP;WAW;advanced condition failed
+XY-PZC;10-09-2016;10-09-2016;;;true;  ;100916-KUN-ACE-2766-XY-PZC;ACE;KUN;advanced condition failed
+XY-OFW;05-07-2010;05-07-2010;;;true;  ;050710-EIN-BRU-7434-XY-OFW;BRU;EIN;advanced condition failed
+XY-OHF;06-03-2013;05-03-2013;;;true;  ;060313-BCN-OPO-3391-XY-OHF;OPO;BCN;advanced condition failed
+XY-FBA;27-06-2012;27-06-2012;;;true;  ;270612-SOU-POZ-1897-XY-FBA;POZ;SOU;advanced condition failed
+XY-JXR;20-04-2015;20-04-2015;;;true;  ;200415-FAO-WMI-3617-XY-JXR;WMI;FAO;advanced condition failed
+XY-ZDY;04-12-2010;04-12-2010;;;true;  ;041210-BCN-PFO-5189-XY-ZDY;PFO;BCN;advanced condition failed
+XY-PZC;13-04-2014;13-04-2014;;;true;  ;130414-TZX-BIQ-4592-XY-PZC;BIQ;TZX;advanced condition failed
+XY-ALV;14-03-2015;14-03-2015;;;true;  ;140315-KIV-FUE-8146-XY-ALV;FUE;KIV;advanced condition failed
+XY-MBJ;25-08-2014;25-08-2014;;;true;  ;250814-STN-NYO-3827-XY-MBJ;NYO;STN;advanced condition failed
+XY-ALV;11-06-2010;11-06-2010;;;true;  ;110610-TSF-AGP-6215-XY-ALV;AGP;TSF;advanced condition failed
+XY-NHZ;07-04-2016;07-04-2016;;;true;  ;070416-ORK-WRO-8846-XY-NHZ;WRO;ORK;advanced condition failed
+XY-JXR;24-11-2012;24-11-2012;;;true;  ;241112-NRN-MST-6558-XY-JXR;MST;NRN;advanced condition failed
+XY-PZC;06-06-2012;06-06-2012;;;true;  ;060612-OSL-BES-1394-XY-PZC;BES;OSL;advanced condition failed
+XY-OFW;24-08-2010;24-08-2010;;;true;  ;240810-ANR-BGY-2363-XY-OFW;BGY;ANR;advanced condition failed
+XY-OFW;06-03-2015;06-03-2015;;;true;  ;060315-HAU-GRO-3661-XY-OFW;GRO;HAU;advanced condition failed
+XY-OFW;19-12-2011;19-12-2011;;;true;  ;191211-KIV-LUX-8644-XY-OFW;LUX;KIV;advanced condition failed
+XY-OFW;07-02-2013;07-02-2013;;;true;  ;070213-TOS-GDN-9435-XY-OFW;GDN;TOS;advanced condition failed
+XY-LQZ;07-02-2012;07-02-2012;;;true;  ;070212-LHR-MAD-1933-XY-LQZ;MAD;LHR;advanced condition failed
+XY-ZMF;02-01-2010;02-01-2010;;;true;  ;020110-RTM-PMO-9647-XY-ZMF;PMO;RTM;advanced condition failed
+XY-IOO;28-01-2013;28-01-2013;;;true;  ;280113-PDL-ABZ-2447-XY-IOO;ABZ;PDL;advanced condition failed
+XY-IWX;13-11-2011;13-11-2011;;;true;  ;131111-OST-NUE-5857-XY-IWX;NUE;OST;advanced condition failed
+XY-YTM;06-03-2015;06-03-2015;;;true;  ;060315-HAJ-BRN-2861-XY-YTM;BRN;HAJ;advanced condition failed
+XY-LYP;05-12-2016;05-12-2016;;;true;  ;051216-BJV-AJA-3336-XY-LYP;AJA;BJV;advanced condition failed
+XY-OFW;12-12-2015;12-12-2015;;;true;  ;121215-GYD-JTR-3916-XY-OFW;JTR;GYD;advanced condition failed
+XY-NHZ;09-11-2013;09-11-2013;;;true;  ;091113-BSL-LHR-4334-XY-NHZ;LHR;BSL;advanced condition failed
+XY-OZH;04-10-2016;04-10-2016;;;true;  ;041016-CLJ-BRU-6352-XY-OZH;BRU;CLJ;advanced condition failed
+XY-CMJ;07-11-2014;07-11-2014;;;true;  ;071114-DTM-TXL-7339-XY-CMJ;TXL;DTM;advanced condition failed
+XY-YAZ;30-06-2014;29-06-2014;;;true;  ;300614-FRA-BDS-3728-XY-YAZ;BDS;FRA;advanced condition failed
+XY-ALV;06-07-2012;06-07-2012;;;true;  ;060712-VCE-NTE-9436-XY-ALV;NTE;VCE;advanced condition failed
+XY-OHF;08-09-2013;08-09-2013;;;true;  ;080913-GRZ-BRI-5683-XY-OHF;BRI;GRZ;advanced condition failed
+XY-OZH;13-12-2010;13-12-2010;;;true;  ;131210-AJA-NOC-2672-XY-OZH;NOC;AJA;advanced condition failed
+XY-LQZ;03-07-2013;03-07-2013;;;true;  ;030713-KUN-MRS-7731-XY-LQZ;MRS;KUN;advanced condition failed
+XY-ZMF;23-12-2014;23-12-2014;;;true;  ;231214-OUL-BGY-5234-XY-ZMF;BGY;OUL;advanced condition failed
+XY-OFW;20-05-2013;20-05-2013;;;true;  ;200513-BRI-FAE-3775-XY-OFW;FAE;BRI;advanced condition failed
+XY-JXR;24-05-2011;24-05-2011;;;true;  ;240511-ALA-AYT-8774-XY-JXR;AYT;ALA;advanced condition failed
+XY-LYP;01-09-2015;01-09-2015;;;true;  ;010915-LGG-SAW-3348-XY-LYP;SAW;LGG;advanced condition failed
+XY-ZDY;19-01-2012;19-01-2012;;;true;  ;190112-CPH-TZX-5448-XY-ZDY;TZX;CPH;advanced condition failed
+XY-YTM;06-04-2012;06-04-2012;;;true;  ;060412-SVQ-LEJ-9438-XY-YTM;LEJ;SVQ;advanced condition failed
+XY-PZC;24-02-2013;24-02-2013;;;true;  ;240213-BMA-AER-1884-XY-PZC;AER;BMA;advanced condition failed
+XY-NMY;20-09-2010;20-09-2010;;;true;  ;200910-HUY-AAL-1126-XY-NMY;AAL;HUY;advanced condition failed
+XY-MBJ;29-07-2014;29-07-2014;;;true;  ;290714-INN-PMO-8533-XY-MBJ;PMO;INN;advanced condition failed
+XY-ZMF;09-11-2016;09-11-2016;;;true;  ;091116-VAR-CLJ-9889-XY-ZMF;CLJ;VAR;advanced condition failed
+XY-LYP;24-09-2014;24-09-2014;;;true;  ;240914-BDS-AMS-3697-XY-LYP;AMS;BDS;advanced condition failed
+XY-ZWJ;21-02-2016;20-02-2016;;;true;  ;210216-SXF-INI-8636-XY-ZWJ;INI;SXF;advanced condition failed
+XY-ZDY;20-03-2015;20-03-2015;;;true;  ;200315-LYS-NOC-6541-XY-ZDY;NOC;LYS;advanced condition failed
+XY-ALV;17-07-2015;17-07-2015;;;true;  ;170715-SKG-SKP-7484-XY-ALV;SKP;SKG;advanced condition failed
+XY-ZDY;15-02-2010;15-02-2010;;;true;  ;150210-LED-KBP-9835-XY-ZDY;KBP;LED;advanced condition failed
+XY-CMJ;28-03-2016;28-03-2016;;;true;  ;280316-NRN-JER-4846-XY-CMJ;JER;NRN;advanced condition failed
+XY-ZMF;11-02-2012;11-02-2012;;;true;  ;110212-EDI-EIN-1239-XY-ZMF;EIN;EDI;advanced condition failed
+XY-IWX;16-03-2013;16-03-2013;;;true;  ;160313-AHO-BUD-4151-XY-IWX;BUD;AHO;advanced condition failed
+XY-ZDY;04-07-2016;04-07-2016;;;true;  ;040716-PFO-SOU-2417-XY-ZDY;SOU;PFO;advanced condition failed
+XY-YTM;21-01-2015;20-01-2015;;;true;  ;210115-MPL-MAD-5238-XY-YTM;MAD;MPL;advanced condition failed
+XY-ZMF;28-10-2011;28-10-2011;;;true;  ;281011-CFU-CAG-8782-XY-ZMF;CAG;CFU;advanced condition failed
+XY-NMY;23-09-2013;23-09-2013;;;true;  ;230913-LJU-ORY-2762-XY-NMY;ORY;LJU;advanced condition failed
+XY-OHF;26-11-2013;26-11-2013;;;true;  ;261113-TLS-PDL-1441-XY-OHF;PDL;TLS;advanced condition failed
+XY-MBJ;10-08-2014;10-08-2014;;;true;  ;100814-ORY-EDI-1914-XY-MBJ;EDI;ORY;advanced condition failed
+XY-IWX;28-09-2012;28-09-2012;;;true;  ;280912-ABZ-PAD-1353-XY-IWX;PAD;ABZ;advanced condition failed
+XY-NMY;14-07-2011;14-07-2011;;;true;  ;140711-FSC-SXB-8934-XY-NMY;SXB;FSC;advanced condition failed
+XY-LQZ;20-03-2016;20-03-2016;;;true;  ;200316-LGW-ATH-5756-XY-LQZ;ATH;LGW;advanced condition failed
+XY-ALV;27-11-2014;27-11-2014;;;true;  ;271114-LEI-TSF-6617-XY-ALV;TSF;LEI;advanced condition failed
+XY-JXR;26-12-2014;26-12-2014;;;true;  ;261214-DTM-BRE-2644-XY-JXR;BRE;DTM;advanced condition failed
+XY-ZWJ;10-01-2015;10-01-2015;;;true;  ;100115-LNZ-KEF-7491-XY-ZWJ;KEF;LNZ;advanced condition failed
+XY-OFW;13-06-2011;13-06-2011;;;true;  ;130611-JMK-SCQ-9516-XY-OFW;SCQ;JMK;advanced condition failed
+XY-ZMF;31-07-2014;31-07-2014;;;true;  ;310714-VLC-BES-2376-XY-ZMF;BES;VLC;advanced condition failed
+XY-OZH;09-09-2012;09-09-2012;;;true;  ;090912-FRA-GYD-8749-XY-OZH;GYD;FRA;advanced condition failed
+XY-YTM;11-01-2013;11-01-2013;;;true;  ;110113-RTM-OVB-8756-XY-YTM;OVB;RTM;advanced condition failed
+XY-OHF;21-12-2016;20-12-2016;;;true;  ;211216-LCY-BLL-5561-XY-OHF;BLL;LCY;advanced condition failed
+XY-LYP;25-07-2014;25-07-2014;;;true;  ;250714-OUL-AJA-8338-XY-LYP;AJA;OUL;advanced condition failed
+XY-OZH;28-09-2015;28-09-2015;;;true;  ;280915-ABZ-SEN-7241-XY-OZH;SEN;ABZ;advanced condition failed
+XY-YAZ;21-02-2015;21-02-2015;;;true;  ;210215-BGO-LGW-1235-XY-YAZ;LGW;BGO;advanced condition failed
+XY-MBJ;13-01-2010;13-01-2010;;;true;  ;130110-HEL-HHN-9135-XY-MBJ;HHN;HEL;advanced condition failed
+XY-ALV;14-09-2013;14-09-2013;;;true;  ;140913-STR-ALC-2388-XY-ALV;ALC;STR;advanced condition failed
+XY-ZDY;20-03-2011;20-03-2011;;;true;  ;200311-MXP-BRU-1894-XY-ZDY;BRU;MXP;advanced condition failed
+XY-IOO;21-05-2015;20-05-2015;;;true;  ;210515-ARN-LGG-5772-XY-IOO;LGG;ARN;advanced condition failed
+XY-NHZ;24-08-2016;24-08-2016;;;true;  ;240816-RNS-NYO-6645-XY-NHZ;NYO;RNS;advanced condition failed
+XY-OZH;30-08-2015;30-08-2015;;;true;  ;300815-FUE-BDS-4455-XY-OZH;BDS;FUE;advanced condition failed
+XY-ZDY;07-09-2013;07-09-2013;;;true;  ;070913-REU-SKG-2911-XY-ZDY;SKG;REU;advanced condition failed
+XY-CMJ;27-12-2015;27-12-2015;;;true;  ;271215-VAR-BSL-1882-XY-CMJ;BSL;VAR;advanced condition failed
+XY-ZWJ;17-03-2010;17-03-2010;;;true;  ;170310-LED-FAO-3311-XY-ZWJ;FAO;LED;advanced condition failed
+XY-NMY;12-07-2015;12-07-2015;;;true;  ;120715-TXL-BHX-1137-XY-NMY;BHX;TXL;advanced condition failed
+XY-ZDY;17-04-2012;17-04-2012;;;true;  ;170412-BRI-ESB-8416-XY-ZDY;ESB;BRI;advanced condition failed
+XY-JXR;21-08-2011;21-08-2011;;;true;  ;210811-SKG-KLU-5526-XY-JXR;KLU;SKG;advanced condition failed
+XY-FBA;04-10-2014;04-10-2014;;;true;  ;041014-TRF-AAL-4123-XY-FBA;AAL;TRF;advanced condition failed
+XY-LYP;17-12-2013;17-12-2013;;;true;  ;171213-ZRH-RMU-6389-XY-LYP;RMU;ZRH;advanced condition failed
+XY-YTM;12-02-2010;12-02-2010;;;true;  ;120210-TMP-DSA-4332-XY-YTM;DSA;TMP;advanced condition failed
+XY-CMJ;25-07-2010;25-07-2010;;;true;  ;250710-OUL-WAW-9519-XY-CMJ;WAW;OUL;advanced condition failed
+XY-NMY;24-02-2014;24-02-2014;;;true;  ;240214-BRN-XRY-1922-XY-NMY;XRY;BRN;advanced condition failed
+XY-ZWJ;05-01-2016;05-01-2016;;;true;  ;050116-AAL-GYD-9874-XY-ZWJ;GYD;AAL;advanced condition failed
+XY-LYP;21-12-2015;21-12-2015;;;true;  ;211215-BVA-LJU-6549-XY-LYP;LJU;BVA;advanced condition failed
+XY-OFW;10-08-2011;10-08-2011;;;true;  ;100811-BHX-KTW-8493-XY-OFW;KTW;BHX;advanced condition failed
+XY-LYP;20-07-2011;20-07-2011;;;true;  ;200711-TFN-IAS-4614-XY-LYP;IAS;TFN;advanced condition failed
+XY-JXR;10-08-2016;10-08-2016;;;true;  ;100816-GDN-OSL-4436-XY-JXR;OSL;GDN;advanced condition failed
+XY-OHF;14-07-2010;14-07-2010;;;true;  ;140710-OSL-PIK-9484-XY-OHF;PIK;OSL;advanced condition failed
+XY-LYP;22-10-2011;22-10-2011;;;true;  ;221011-BIQ-BUD-3344-XY-LYP;BUD;BIQ;advanced condition failed
+XY-ZMF;17-06-2014;17-06-2014;;;true;  ;170614-SPU-MUC-3249-XY-ZMF;MUC;SPU;advanced condition failed
+XY-OZH;10-10-2015;10-10-2015;;;true;  ;101015-EMA-VRN-9261-XY-OZH;VRN;EMA;advanced condition failed
+XY-CMJ;07-10-2010;07-10-2010;;;true;  ;071010-NUE-INI-3517-XY-CMJ;INI;NUE;advanced condition failed
+XY-YTM;12-08-2013;12-08-2013;;;true;  ;120813-ALA-OVB-8434-XY-YTM;OVB;ALA;advanced condition failed
+XY-YTM;24-02-2013;24-02-2013;;;true;  ;240213-HAU-MAH-4657-XY-YTM;MAH;HAU;advanced condition failed
+XY-NHZ;29-07-2015;29-07-2015;;;true;  ;290715-BCN-DUS-7659-XY-NHZ;DUS;BCN;advanced condition failed
+XY-OFW;25-01-2011;25-01-2011;;;true;  ;250111-LIS-BOD-4556-XY-OFW;BOD;LIS;advanced condition failed
+XY-YAZ;18-05-2016;18-05-2016;;;true;  ;180516-NUE-LCA-5347-XY-YAZ;LCA;NUE;advanced condition failed
+XY-OZH;29-04-2010;29-04-2010;;;true;  ;290410-CGN-AJA-7392-XY-OZH;AJA;CGN;advanced condition failed
+XY-NMY;22-09-2013;21-09-2013;;;true;  ;220913-SKG-LBA-2323-XY-NMY;LBA;SKG;advanced condition failed
+XY-FBA;17-09-2016;17-09-2016;;;true;  ;170916-CIY-DLM-4446-XY-FBA;DLM;CIY;advanced condition failed
+XY-OHF;19-10-2012;19-10-2012;;;true;  ;191012-LCY-TPS-2785-XY-OHF;TPS;LCY;advanced condition failed
+XY-IWX;21-04-2010;21-04-2010;;;true;  ;210410-AER-FMM-9637-XY-IWX;FMM;AER;advanced condition failed
+XY-ZWJ;29-09-2016;29-09-2016;;;true;  ;290916-MRS-BUD-1797-XY-ZWJ;BUD;MRS;advanced condition failed
+XY-LQZ;12-05-2013;12-05-2013;;;true;  ;120513-CPH-GRO-6875-XY-LQZ;GRO;CPH;advanced condition failed
+XY-LYP;03-10-2012;03-10-2012;;;true;  ;031012-GRZ-VRN-3776-XY-LYP;VRN;GRZ;advanced condition failed
+XY-FBA;08-05-2011;08-05-2011;;;true;  ;080511-EXT-SKP-4328-XY-FBA;SKP;EXT;advanced condition failed
+XY-OZH;07-02-2011;07-02-2011;;;true;  ;070211-BRU-FRA-2718-XY-OZH;FRA;BRU;advanced condition failed
+XY-IWX;08-08-2013;08-08-2013;;;true;  ;080813-BIO-KLU-6747-XY-IWX;KLU;BIO;advanced condition failed
+XY-ALV;05-11-2014;05-11-2014;;;true;  ;051114-ORY-PAD-2454-XY-ALV;PAD;ORY;advanced condition failed
+XY-OHF;17-10-2010;17-10-2010;;;true;  ;171010-SOF-REU-3922-XY-OHF;REU;SOF;advanced condition failed
+XY-PZC;26-08-2011;26-08-2011;;;true;  ;260811-KGS-SZG-9635-XY-PZC;SZG;KGS;advanced condition failed
+XY-NHZ;27-06-2015;27-06-2015;;;true;  ;270615-DME-FMM-5827-XY-NHZ;FMM;DME;advanced condition failed
+XY-LQZ;27-08-2010;27-08-2010;;;true;  ;270810-WAW-PRN-8122-XY-LQZ;PRN;WAW;advanced condition failed
+XY-YTM;02-05-2013;02-05-2013;;;true;  ;020513-OSL-GRO-5799-XY-YTM;GRO;OSL;advanced condition failed
+XY-ZDY;04-06-2015;04-06-2015;;;true;  ;040615-STN-INI-7655-XY-ZDY;INI;STN;advanced condition failed
+XY-LYP;01-09-2015;01-09-2015;;;true;  ;010915-BGY-DUB-2336-XY-LYP;DUB;BGY;advanced condition failed
+XY-ALV;24-01-2011;24-01-2011;;;true;  ;240111-SVX-TSR-3468-XY-ALV;TSR;SVX;advanced condition failed
+XY-NHZ;11-08-2013;11-08-2013;;;true;  ;110813-IEV-EDI-5335-XY-NHZ;EDI;IEV;advanced condition failed
+XY-LYP;05-09-2016;05-09-2016;;;true;  ;050916-MAH-EVN-1986-XY-LYP;EVN;MAH;advanced condition failed
+XY-ZMF;09-02-2014;09-02-2014;;;true;  ;090214-OLB-MST-7674-XY-ZMF;MST;OLB;advanced condition failed
+XY-PZC;22-06-2010;22-06-2010;;;true;  ;220610-DTM-GOA-3263-XY-PZC;GOA;DTM;advanced condition failed
+XY-YTM;26-08-2014;26-08-2014;;;true;  ;260814-BSL-VRN-9761-XY-YTM;VRN;BSL;advanced condition failed
+XY-IWX;28-02-2014;28-02-2014;;;true;  ;280214-SXB-FMM-3249-XY-IWX;FMM;SXB;advanced condition failed
+XY-YAZ;06-10-2015;05-10-2015;;;true;  ;061015-GRZ-WMI-4956-XY-YAZ;WMI;GRZ;advanced condition failed
+XY-JXR;03-11-2011;03-11-2011;;;true;  ;031111-TOS-OVB-6236-XY-JXR;OVB;TOS;advanced condition failed
+XY-YTM;05-07-2014;05-07-2014;;;true;  ;050714-GRQ-TGD-4667-XY-YTM;TGD;GRQ;advanced condition failed
+XY-LQZ;14-09-2012;14-09-2012;;;true;  ;140912-BHD-BOO-4323-XY-LQZ;BOO;BHD;advanced condition failed
+XY-CMJ;15-05-2015;15-05-2015;;;true;  ;150515-PEG-PRG-4969-XY-CMJ;PRG;PEG;advanced condition failed
+XY-ZWJ;23-08-2015;23-08-2015;;;true;  ;230815-MAD-BOJ-3481-XY-ZWJ;BOJ;MAD;advanced condition failed
+XY-ALV;22-06-2015;22-06-2015;;;true;  ;220615-BRQ-TZL-7299-XY-ALV;TZL;BRQ;advanced condition failed
+XY-YAZ;12-03-2011;12-03-2011;;;true;  ;120311-MAD-TZX-5546-XY-YAZ;TZX;MAD;advanced condition failed
+XY-NMY;12-06-2012;12-06-2012;;;true;  ;120612-CLJ-CDG-1155-XY-NMY;CDG;CLJ;advanced condition failed
+XY-YTM;22-12-2012;22-12-2012;;;true;  ;221212-VKO-WRO-9477-XY-YTM;WRO;VKO;advanced condition failed
+XY-ALV;20-03-2013;20-03-2013;;;true;  ;200313-DTM-PAD-1546-XY-ALV;PAD;DTM;advanced condition failed
+XY-OZH;14-12-2011;14-12-2011;;;true;  ;141211-VST-LTN-7368-XY-OZH;LTN;VST;advanced condition failed
+XY-ZDY;19-02-2016;19-02-2016;;;true;  ;190216-FDH-FRA-7555-XY-ZDY;FRA;FDH;advanced condition failed
+XY-ZMF;17-08-2016;17-08-2016;;;true;  ;170816-GLA-BHX-9592-XY-ZMF;BHX;GLA;advanced condition failed
+XY-OFW;19-03-2014;19-03-2014;;;true;  ;190314-TRN-KRS-2619-XY-OFW;KRS;TRN;advanced condition failed
+XY-YTM;30-09-2013;30-09-2013;;;true;  ;300913-BSL-KRK-9118-XY-YTM;KRK;BSL;advanced condition failed
+XY-ZDY;11-07-2012;11-07-2012;;;true;  ;110712-DEB-RNS-3466-XY-ZDY;RNS;DEB;advanced condition failed
+XY-OFW;21-06-2010;21-06-2010;;;true;  ;210610-GRQ-AMS-7822-XY-OFW;AMS;GRQ;advanced condition failed
+XY-LQZ;25-12-2014;24-12-2014;;;true;  ;251214-SVO-GYD-9431-XY-LQZ;GYD;SVO;advanced condition failed
+XY-YTM;05-06-2016;04-06-2016;;;true;  ;050616-SVX-KTW-7348-XY-YTM;KTW;SVX;advanced condition failed
+XY-ZDY;07-08-2014;07-08-2014;;;true;  ;070814-BDS-TFN-2764-XY-ZDY;TFN;BDS;advanced condition failed
+XY-JXR;28-11-2015;28-11-2015;;;true;  ;281115-AYT-SXB-1753-XY-JXR;SXB;AYT;advanced condition failed
+XY-LYP;04-10-2014;04-10-2014;;;true;  ;041014-GRO-KTW-8244-XY-LYP;KTW;GRO;advanced condition failed
+XY-ZMF;01-03-2010;01-03-2010;;;true;  ;010310-PSR-TZX-9329-XY-ZMF;TZX;PSR;advanced condition failed
+XY-PZC;11-10-2016;11-10-2016;;;true;  ;111016-ADA-RMU-2483-XY-PZC;RMU;ADA;advanced condition failed
+XY-OFW;27-12-2013;27-12-2013;;;true;  ;271213-GVA-FNC-2391-XY-OFW;FNC;GVA;advanced condition failed
+XY-PZC;23-06-2015;23-06-2015;;;true;  ;230615-CIA-TRF-3649-XY-PZC;TRF;CIA;advanced condition failed
+XY-PZC;18-11-2010;18-11-2010;;;true;  ;181110-FAO-AYT-1216-XY-PZC;AYT;FAO;advanced condition failed
+XY-NMY;04-01-2015;04-01-2015;;;true;  ;040115-KEF-SEN-1914-XY-NMY;SEN;KEF;advanced condition failed
+XY-ALV;17-09-2012;17-09-2012;;;true;  ;170912-EVN-TSF-1542-XY-ALV;TSF;EVN;advanced condition failed
+XY-MBJ;13-04-2013;13-04-2013;;;true;  ;130413-OTP-AES-3637-XY-MBJ;AES;OTP;advanced condition failed
+XY-JXR;21-09-2010;21-09-2010;;;true;  ;210910-PRN-SKP-8147-XY-JXR;SKP;PRN;advanced condition failed
+XY-JXR;23-08-2016;23-08-2016;;;true;  ;230816-PFO-BLQ-6216-XY-JXR;BLQ;PFO;advanced condition failed
+XY-ALV;17-07-2014;17-07-2014;;;true;  ;170714-MRS-RIX-5174-XY-ALV;RIX;MRS;advanced condition failed
+XY-OFW;26-10-2010;26-10-2010;;;true;  ;261010-FNC-ALA-7663-XY-OFW;ALA;FNC;advanced condition failed
+XY-OFW;10-07-2011;10-07-2011;;;true;  ;100711-LYS-LUX-7171-XY-OFW;LUX;LYS;advanced condition failed
+XY-ZDY;13-06-2015;13-06-2015;;;true;  ;130615-CFU-FDH-1819-XY-ZDY;FDH;CFU;advanced condition failed
+XY-OHF;11-04-2014;11-04-2014;;;true;  ;110414-SVQ-TSF-5513-XY-OHF;TSF;SVQ;advanced condition failed
+XY-PZC;05-01-2017;05-01-2017;;;true;  ;050117-LGG-PDL-3296-XY-PZC;PDL;LGG;advanced condition failed
+XY-LQZ;07-04-2014;07-04-2014;;;true;  ;070414-DLM-LIN-5261-XY-LQZ;LIN;DLM;advanced condition failed
+XY-PZC;10-11-2010;10-11-2010;;;true;  ;101110-GOA-SJJ-1657-XY-PZC;SJJ;GOA;advanced condition failed
+XY-MBJ;11-03-2016;11-03-2016;;;true;  ;110316-GRQ-ADA-6494-XY-MBJ;ADA;GRQ;advanced condition failed
+XY-OFW;05-08-2015;04-08-2015;;;true;  ;050815-NUE-GRZ-5684-XY-OFW;GRZ;NUE;advanced condition failed
+XY-LQZ;13-05-2015;13-05-2015;;;true;  ;130515-VIE-BHD-7649-XY-LQZ;BHD;VIE;advanced condition failed
+XY-ALV;27-04-2010;27-04-2010;;;true;  ;270410-FKB-PFO-9631-XY-ALV;PFO;FKB;advanced condition failed
+XY-ALV;15-05-2016;15-05-2016;;;true;  ;150516-AES-CRL-4421-XY-ALV;CRL;AES;advanced condition failed
+XY-YTM;21-08-2011;21-08-2011;;;true;  ;210811-REU-PRN-1181-XY-YTM;PRN;REU;advanced condition failed
+XY-PZC;28-11-2016;28-11-2016;;;true;  ;281116-BHX-BJV-7178-XY-PZC;BJV;BHX;advanced condition failed
+XY-NMY;06-10-2010;06-10-2010;;;true;  ;061010-LBA-CAG-8474-XY-NMY;CAG;LBA;advanced condition failed
+XY-YTM;05-11-2011;05-11-2011;;;true;  ;051111-OPO-OVD-4741-XY-YTM;OVD;OPO;advanced condition failed
+XY-ZDY;25-11-2011;25-11-2011;;;true;  ;251111-TIA-SXB-5984-XY-ZDY;SXB;TIA;advanced condition failed
+XY-ALV;04-07-2011;04-07-2011;;;true;  ;040711-ZRH-KUN-1761-XY-ALV;KUN;ZRH;advanced condition failed
+XY-LQZ;18-07-2014;18-07-2014;;;true;  ;180714-BHX-BGY-1731-XY-LQZ;BGY;BHX;advanced condition failed
+XY-ALV;06-10-2013;06-10-2013;;;true;  ;061013-CGN-ATH-6681-XY-ALV;ATH;CGN;advanced condition failed
+XY-LYP;22-05-2015;22-05-2015;;;true;  ;220515-LIS-BLL-3798-XY-LYP;BLL;LIS;advanced condition failed
+XY-YTM;06-09-2010;06-09-2010;;;true;  ;060910-MAN-SJJ-6176-XY-YTM;SJJ;MAN;advanced condition failed
+XY-ZWJ;20-05-2016;20-05-2016;;;true;  ;200516-SDR-EIN-3815-XY-ZWJ;EIN;SDR;advanced condition failed
+XY-ZDY;06-05-2012;06-05-2012;;;true;  ;060512-ALC-PSR-2179-XY-ZDY;PSR;ALC;advanced condition failed
+XY-ZDY;27-04-2015;27-04-2015;;;true;  ;270415-KUN-ESB-9365-XY-ZDY;ESB;KUN;advanced condition failed
+XY-PZC;07-07-2013;07-07-2013;;;true;  ;070713-TLL-IST-3245-XY-PZC;IST;TLL;advanced condition failed
+XY-YTM;24-01-2012;24-01-2012;;;true;  ;240112-BRQ-KUN-5265-XY-YTM;KUN;BRQ;advanced condition failed
+XY-MBJ;09-11-2010;09-11-2010;;;true;  ;091110-TLS-BEG-7899-XY-MBJ;BEG;TLS;advanced condition failed
+XY-OZH;09-01-2012;09-01-2012;;;true;  ;090112-FSC-FMO-1876-XY-OZH;FMO;FSC;advanced condition failed
+XY-YTM;22-08-2015;22-08-2015;;;true;  ;220815-LNZ-NCL-3661-XY-YTM;NCL;LNZ;advanced condition failed
+XY-FBA;14-10-2010;14-10-2010;;;true;  ;141010-SVQ-TKU-1938-XY-FBA;TKU;SVQ;advanced condition failed
+XY-LQZ;17-09-2010;17-09-2010;;;true;  ;170910-FAO-LPA-1671-XY-LQZ;LPA;FAO;advanced condition failed
+XY-ALV;17-05-2015;17-05-2015;;;true;  ;170515-SOF-FAE-5987-XY-ALV;FAE;SOF;advanced condition failed
+XY-YTM;15-06-2010;15-06-2010;;;true;  ;150610-TLL-BTS-7584-XY-YTM;BTS;TLL;advanced condition failed
+XY-IOO;26-06-2016;26-06-2016;;;true;  ;260616-LYS-ABZ-3922-XY-IOO;ABZ;LYS;advanced condition failed
+XY-CMJ;01-05-2015;01-05-2015;;;true;  ;010515-LEJ-KIR-9118-XY-CMJ;KIR;LEJ;advanced condition failed
+XY-YAZ;12-11-2010;11-11-2010;;;true;  ;121110-DBV-DSA-1246-XY-YAZ;DSA;DBV;advanced condition failed
+XY-LQZ;21-04-2013;21-04-2013;;;true;  ;210413-LBA-TLN-3641-XY-LQZ;TLN;LBA;advanced condition failed
+XY-NMY;25-10-2013;25-10-2013;;;true;  ;251013-EXT-LGG-6154-XY-NMY;LGG;EXT;advanced condition failed
+XY-OFW;19-01-2010;19-01-2010;;;true;  ;190110-SDR-EVN-2722-XY-OFW;EVN;SDR;advanced condition failed
+XY-YTM;31-03-2010;31-03-2010;;;true;  ;310310-BSL-LUG-8495-XY-YTM;LUG;BSL;advanced condition failed
+XY-ZMF;17-10-2011;17-10-2011;;;true;  ;171011-LUG-PDL-7395-XY-ZMF;PDL;LUG;advanced condition failed
+XY-ZWJ;09-12-2011;08-12-2011;;;true;  ;091211-RTM-ESB-6628-XY-ZWJ;ESB;RTM;advanced condition failed
+XY-YTM;03-05-2012;02-05-2012;;;true;  ;030512-HHN-BLL-8349-XY-YTM;BLL;HHN;advanced condition failed
+XY-ZDY;15-10-2010;15-10-2010;;;true;  ;151010-LHR-CWL-8444-XY-ZDY;CWL;LHR;advanced condition failed
+XY-OHF;15-01-2015;15-01-2015;;;true;  ;150115-TLS-MMX-1186-XY-OHF;MMX;TLS;advanced condition failed
+XY-IOO;11-11-2015;11-11-2015;;;true;  ;111115-KEF-OST-2314-XY-IOO;OST;KEF;advanced condition failed
+XY-MBJ;01-08-2013;31-07-2013;;;true;  ;010813-HUY-MAD-1185-XY-MBJ;MAD;HUY;advanced condition failed
+XY-YTM;09-11-2013;09-11-2013;;;true;  ;091113-BRE-IEV-5658-XY-YTM;IEV;BRE;advanced condition failed
+XY-IOO;13-04-2011;13-04-2011;;;true;  ;130411-OSL-SDR-1753-XY-IOO;SDR;OSL;advanced condition failed
+XY-CMJ;08-07-2012;08-07-2012;;;true;  ;080712-BGO-MAD-5565-XY-CMJ;MAD;BGO;advanced condition failed
+XY-YTM;18-02-2013;18-02-2013;;;true;  ;180213-IST-ZAG-5345-XY-YTM;ZAG;IST;advanced condition failed
+XY-CMJ;13-06-2011;13-06-2011;;;true;  ;130611-VAR-CHQ-8761-XY-CMJ;CHQ;VAR;advanced condition failed
+XY-NHZ;12-03-2015;12-03-2015;;;true;  ;120315-AAR-CHQ-1552-XY-NHZ;CHQ;AAR;advanced condition failed
+XY-YAZ;24-07-2013;24-07-2013;;;true;  ;240713-TBS-CFU-5496-XY-YAZ;CFU;TBS;advanced condition failed
+XY-ZDY;12-06-2012;12-06-2012;;;true;  ;120612-SUF-BRI-9158-XY-ZDY;BRI;SUF;advanced condition failed
+XY-ZMF;22-06-2015;21-06-2015;;;true;  ;220615-KRS-INN-8247-XY-ZMF;INN;KRS;advanced condition failed
+XY-OFW;20-07-2014;20-07-2014;;;true;  ;200714-PEG-FMO-9286-XY-OFW;FMO;PEG;advanced condition failed
+XY-LQZ;19-06-2010;19-06-2010;;;true;  ;190610-AMS-PRG-6369-XY-LQZ;PRG;AMS;advanced condition failed
+XY-LQZ;27-06-2015;27-06-2015;;;true;  ;270615-BGY-GDN-2258-XY-LQZ;GDN;BGY;advanced condition failed
+XY-JXR;12-07-2015;12-07-2015;;;true;  ;120715-AHO-NCL-7557-XY-JXR;NCL;AHO;advanced condition failed
+XY-LYP;15-12-2015;15-12-2015;;;true;  ;151215-KIR-KLU-7835-XY-LYP;KLU;KIR;advanced condition failed
+XY-LQZ;30-09-2011;30-09-2011;;;true;  ;300911-VIE-ORY-5136-XY-LQZ;ORY;VIE;advanced condition failed
+XY-OFW;07-02-2010;07-02-2010;;;true;  ;070210-SOU-STN-6229-XY-OFW;STN;SOU;advanced condition failed
+XY-OZH;10-11-2014;10-11-2014;;;true;  ;101114-TZX-CFU-9355-XY-OZH;CFU;TZX;advanced condition failed
+XY-JXR;15-01-2015;15-01-2015;;;true;  ;150115-SUF-MRS-1339-XY-JXR;MRS;SUF;advanced condition failed
+XY-NMY;24-11-2013;24-11-2013;24-11-2013;24-11-2013;false;37;241113-ANR-BRI-5546-XY-NMY;BRI;ANR;advanced condition failed
+XY-MBJ;18-06-2011;18-06-2011;18-06-2011;18-06-2011;false;81;180611-FMO-BDS-6493-XY-MBJ;BDS;FMO;advanced condition failed
+XY-YAZ;04-08-2014;04-08-2014;04-08-2014;04-08-2014;false;55;040814-BIA-NRN-5164-XY-YAZ;NRN;BIA;advanced condition failed
+XY-NMY;23-05-2016;23-05-2016;23-05-2016;23-05-2016;false;18;230516-HER-LIN-5988-XY-NMY;LIN;HER;advanced condition failed
+XY-YAZ;06-08-2012;06-08-2012;06-08-2012;06-08-2012;false;88;060812-BDS-RMU-2222-XY-YAZ;RMU;BDS;advanced condition failed
+XY-IOO;23-06-2011;23-06-2011;23-06-2011;23-06-2011;false;00;230611-SDR-MMX-4683-XY-IOO;MMX;SDR;advanced condition failed
+XY-YTM;22-11-2011;21-11-2011;22-11-2011;22-11-2011;false;11;221111-KRS-TIA-9876-XY-YTM;TIA;KRS;advanced condition failed
+XY-OZH;09-04-2016;09-04-2016;09-04-2016;10-04-2016;false;18;090416-EVN-LGG-7147-XY-OZH;LGG;EVN;advanced condition failed
+XY-ZMF;17-05-2016;17-05-2016;17-05-2016;17-05-2016;false;45;170516-GOA-INI-3659-XY-ZMF;INI;GOA;advanced condition failed
+XY-IOO;19-02-2013;19-02-2013;19-02-2013;19-02-2013;false;17;190213-JMK-BGO-1856-XY-IOO;BGO;JMK;advanced condition failed
+XY-OZH;03-01-2017;03-01-2017;03-01-2017;03-01-2017;false;66;030117-VAA-PSR-9612-XY-OZH;PSR;VAA;advanced condition failed
+XY-NMY;13-01-2010;13-01-2010;13-01-2010;13-01-2010;false;95;130110-SCQ-KRS-9164-XY-NMY;KRS;SCQ;advanced condition failed
+XY-YAZ;18-09-2014;18-09-2014;18-09-2014;18-09-2014;false;64;180914-OUL-WRO-8519-XY-YAZ;WRO;OUL;advanced condition failed
+XY-LYP;18-06-2010;18-06-2010;18-06-2010;19-06-2010;false;06;180610-TXL-AES-1381-XY-LYP;AES;TXL;advanced condition failed
+XY-PZC;27-02-2011;27-02-2011;27-02-2011;27-02-2011;false;96;270211-DUB-TIA-8443-XY-PZC;TIA;DUB;advanced condition failed
+XY-OHF;02-02-2011;02-02-2011;02-02-2011;02-02-2011;false;83;020211-BIO-HHN-8898-XY-OHF;HHN;BIO;advanced condition failed
+XY-ZMF;31-03-2014;31-03-2014;31-03-2014;31-03-2014;false;98;310314-IST-TGD-6627-XY-ZMF;TGD;IST;advanced condition failed
+XY-NHZ;27-12-2010;27-12-2010;27-12-2010;27-12-2010;false;;271210-ALA-PRN-3521-XY-NHZ;PRN;ALA;advanced condition failed
+XY-IWX;26-10-2011;26-10-2011;26-10-2011;26-10-2011;false;82;261011-MUC-SXB-5145-XY-IWX;SXB;MUC;advanced condition failed
+XY-YAZ;01-11-2016;01-11-2016;01-11-2016;02-11-2016;false;43;011116-JMK-OPO-2431-XY-YAZ;OPO;JMK;advanced condition failed
+XY-YTM;31-01-2011;31-01-2011;31-01-2011;31-01-2011;false;;310111-MLA-LYS-9718-XY-YTM;LYS;MLA;advanced condition failed
+XY-ALV;27-02-2012;27-02-2012;27-02-2012;27-02-2012;false;36;270212-AMS-TIV-7178-XY-ALV;TIV;AMS;advanced condition failed
+XY-LYP;19-11-2013;18-11-2013;19-11-2013;19-11-2013;false;24;191113-BIO-BTS-1666-XY-LYP;BTS;BIO;advanced condition failed
+XY-OHF;30-03-2013;30-03-2013;30-03-2013;31-03-2013;false;36;300313-ZAD-BMA-9666-XY-OHF;BMA;ZAD;advanced condition failed
+XY-IOO;12-09-2015;12-09-2015;12-09-2015;12-09-2015;false;84;120915-HUY-BEG-3261-XY-IOO;BEG;HUY;advanced condition failed
+XY-LQZ;19-05-2015;18-05-2015;19-05-2015;19-05-2015;false;26;190515-IBZ-LJU-6195-XY-LQZ;LJU;IBZ;advanced condition failed
+XY-MBJ;28-09-2011;28-09-2011;28-09-2011;28-09-2011;false;12;280911-HUY-MPL-2863-XY-MBJ;MPL;HUY;advanced condition failed
+XY-FBA;29-06-2013;29-06-2013;29-06-2013;29-06-2013;false;05;290613-AOI-HAM-2616-XY-FBA;HAM;AOI;advanced condition failed
+XY-IOO;07-05-2013;07-05-2013;08-05-2013;08-05-2013;false;15;070513-DLM-JTR-6186-XY-IOO;JTR;DLM;advanced condition failed
+XY-IOO;20-12-2012;20-12-2012;20-12-2012;20-12-2012;false;77;201212-BES-OST-4736-XY-IOO;OST;BES;advanced condition failed
+XY-OHF;07-05-2013;07-05-2013;07-05-2013;07-05-2013;false;96;070513-ANR-GDN-6959-XY-OHF;GDN;ANR;advanced condition failed
+XY-ZMF;07-07-2010;07-07-2010;07-07-2010;07-07-2010;false;64;070710-SOU-AGP-5558-XY-ZMF;AGP;SOU;advanced condition failed
+XY-YTM;23-05-2014;23-05-2014;23-05-2014;23-05-2014;false;46;230514-CFU-LWO-2252-XY-YTM;LWO;CFU;advanced condition failed
+XY-PZC;23-09-2012;23-09-2012;23-09-2012;23-09-2012;false;07;230912-ADA-AJA-4146-XY-PZC;AJA;ADA;advanced condition failed
+XY-OZH;29-07-2010;29-07-2010;29-07-2010;29-07-2010;false;15;290710-TRF-AER-5739-XY-OZH;AER;TRF;advanced condition failed
+XY-FBA;01-06-2011;01-06-2011;01-06-2011;01-06-2011;false;81;010611-LCY-CTA-7868-XY-FBA;CTA;LCY;advanced condition failed
+XY-JXR;25-08-2013;25-08-2013;25-08-2013;25-08-2013;false;81;250813-FSC-HUY-8483-XY-JXR;HUY;FSC;advanced condition failed
+XY-OZH;22-12-2013;22-12-2013;22-12-2013;22-12-2013;false;;221213-SKG-LPL-8667-XY-OZH;LPL;SKG;advanced condition failed
+XY-OFW;21-03-2011;21-03-2011;21-03-2011;21-03-2011;false;72;210311-ZTH-PUY-6735-XY-OFW;PUY;ZTH;advanced condition failed
+XY-YTM;12-03-2011;12-03-2011;12-03-2011;12-03-2011;false;28;120311-OLB-TXL-7927-XY-YTM;TXL;OLB;advanced condition failed
+XY-IOO;16-06-2015;16-06-2015;17-06-2015;17-06-2015;false;66;160615-ADB-BOO-2788-XY-IOO;BOO;ADB;advanced condition failed
+XY-YTM;14-02-2013;14-02-2013;14-02-2013;14-02-2013;false;38;140213-AAR-OPO-6736-XY-YTM;OPO;AAR;advanced condition failed
+XY-PZC;25-06-2013;25-06-2013;25-06-2013;25-06-2013;false;38;250613-NTE-DEB-4187-XY-PZC;DEB;NTE;advanced condition failed
+XY-NMY;15-12-2014;15-12-2014;15-12-2014;15-12-2014;false;37;151214-NAP-OTP-6557-XY-NMY;OTP;NAP;advanced condition failed
+XY-OFW;03-06-2013;03-06-2013;03-06-2013;03-06-2013;false;69;030613-FAE-SPU-9551-XY-OFW;SPU;FAE;advanced condition failed
+XY-NMY;08-05-2015;08-05-2015;08-05-2015;08-05-2015;false;73;080515-ESB-CPH-7293-XY-NMY;CPH;ESB;advanced condition failed
+XY-ZWJ;15-02-2013;15-02-2013;15-02-2013;15-02-2013;false;51;150213-GDN-FMO-3157-XY-ZWJ;FMO;GDN;advanced condition failed
+XY-PZC;16-09-2014;16-09-2014;17-09-2014;17-09-2014;false;72;160914-XRY-PDL-7741-XY-PZC;PDL;XRY;advanced condition failed
+XY-OFW;03-06-2011;03-06-2011;03-06-2011;03-06-2011;false;;030611-EVN-TIV-5671-XY-OFW;TIV;EVN;advanced condition failed
+XY-NHZ;31-03-2012;31-03-2012;31-03-2012;31-03-2012;false;13;310312-TIA-BRI-8286-XY-NHZ;BRI;TIA;advanced condition failed
+XY-IOO;01-05-2016;01-05-2016;01-05-2016;01-05-2016;false;25;010516-MAH-EVN-3313-XY-IOO;EVN;MAH;advanced condition failed
+XY-MBJ;11-05-2013;10-05-2013;;;true;  ;110513-LPA-PMO-3518-XY-MBJ;PMO;LPA;advanced condition failed
+XY-OZH;22-06-2013;22-06-2013;;;true;  ;220613-ARN-VAA-7421-XY-OZH;VAA;ARN;advanced condition failed
+XY-LYP;28-08-2015;28-08-2015;;;true;  ;280815-DUS-BEG-8552-XY-LYP;BEG;DUS;advanced condition failed
+XY-OFW;20-03-2016;20-03-2016;;;true;  ;200316-OVD-BTS-4564-XY-OFW;BTS;OVD;advanced condition failed
+XY-ZWJ;01-02-2015;01-02-2015;;;true;  ;010215-RIX-TSE-6179-XY-ZWJ;TSE;RIX;advanced condition failed
+XY-JXR;25-07-2011;25-07-2011;;;true;  ;250711-BJV-BOO-4335-XY-JXR;BOO;BJV;advanced condition failed
+XY-OZH;29-02-2012;29-02-2012;;;true;  ;290212-ESB-SZG-5871-XY-OZH;SZG;ESB;advanced condition failed
+XY-LYP;27-01-2010;27-01-2010;;;true;  ;270110-SKG-NYO-8387-XY-LYP;NYO;SKG;advanced condition failed
+XY-NHZ;17-09-2011;17-09-2011;;;true;  ;170911-TPS-CRL-8852-XY-NHZ;CRL;TPS;advanced condition failed
+XY-NHZ;13-08-2014;13-08-2014;;;true;  ;130814-RHO-FLR-9142-XY-NHZ;FLR;RHO;advanced condition failed
+XY-FBA;29-10-2011;28-10-2011;;;true;  ;291011-HUY-PDL-4131-XY-FBA;PDL;HUY;advanced condition failed
+XY-NHZ;21-03-2012;21-03-2012;;;true;  ;210312-DUS-TRF-8559-XY-NHZ;TRF;DUS;advanced condition failed
+XY-ZMF;19-04-2016;18-04-2016;;;true;  ;190416-WMI-OVD-2566-XY-ZMF;OVD;WMI;advanced condition failed
+XY-ZWJ;29-05-2011;29-05-2011;;;true;  ;290511-SDR-TLL-4847-XY-ZWJ;TLL;SDR;advanced condition failed
+XY-IOO;01-01-2015;01-01-2015;;;true;  ;010115-NRN-ADB-1227-XY-IOO;ADB;NRN;advanced condition failed
+XY-NHZ;18-04-2016;17-04-2016;;;true;  ;180416-BRI-FMO-1493-XY-NHZ;FMO;BRI;advanced condition failed
+XY-ZMF;07-11-2014;06-11-2014;;;true;  ;071114-BHD-LNZ-8869-XY-ZMF;LNZ;BHD;advanced condition failed
+XY-OHF;07-05-2015;07-05-2015;;;true;  ;070515-LYS-SOF-3626-XY-OHF;SOF;LYS;advanced condition failed
+XY-YTM;31-01-2011;31-01-2011;;;true;  ;310111-AAL-BIO-1898-XY-YTM;BIO;AAL;advanced condition failed
+XY-LYP;27-11-2011;27-11-2011;;;true;  ;271111-GRZ-MPL-1934-XY-LYP;MPL;GRZ;advanced condition failed
+XY-NHZ;07-03-2011;07-03-2011;;;true;  ;070311-TBS-AHO-5159-XY-NHZ;AHO;TBS;advanced condition failed
+XY-CMJ;10-12-2011;10-12-2011;;;true;  ;101211-TXL-OSL-5775-XY-CMJ;OSL;TXL;advanced condition failed
+XY-CMJ;01-01-2016;01-01-2016;;;true;  ;010116-BRN-GOA-7838-XY-CMJ;GOA;BRN;advanced condition failed
+XY-ZDY;20-09-2011;20-09-2011;;;true;  ;200911-LEI-BES-1123-XY-ZDY;BES;LEI;advanced condition failed
+XY-FBA;21-04-2012;21-04-2012;;;true;  ;210412-RVN-IEV-9612-XY-FBA;IEV;RVN;advanced condition failed
+XY-PZC;18-08-2013;18-08-2013;;;true;  ;180813-BHD-ZRH-4644-XY-PZC;ZRH;BHD;advanced condition failed
+XY-CMJ;11-01-2012;11-01-2012;;;true;  ;110112-CDG-SUF-7617-XY-CMJ;SUF;CDG;advanced condition failed
+XY-NMY;19-01-2013;19-01-2013;;;true;  ;190113-IBZ-DUB-6415-XY-NMY;DUB;IBZ;advanced condition failed
+XY-ALV;03-04-2016;03-04-2016;;;true;  ;030416-GRO-IST-2146-XY-ALV;IST;GRO;advanced condition failed
+XY-PZC;28-02-2015;28-02-2015;;;true;  ;280215-GOA-JER-5251-XY-PZC;JER;GOA;advanced condition failed
+XY-NMY;09-02-2014;09-02-2014;;;true;  ;090214-HHN-OTP-9296-XY-NMY;OTP;HHN;advanced condition failed
+XY-IWX;09-09-2015;09-09-2015;;;true;  ;090915-GOT-ATH-5484-XY-IWX;ATH;GOT;advanced condition failed
+XY-NHZ;17-04-2015;17-04-2015;;;true;  ;170415-ADB-KEF-8575-XY-NHZ;KEF;ADB;advanced condition failed
+XY-YTM;29-08-2013;29-08-2013;;;true;  ;290813-OUL-LCA-5982-XY-YTM;LCA;OUL;advanced condition failed
+XY-NHZ;24-03-2012;24-03-2012;;;true;  ;240312-AAL-TFN-5941-XY-NHZ;TFN;AAL;advanced condition failed
+XY-OHF;11-11-2012;11-11-2012;;;true;  ;111112-FCO-SNN-6187-XY-OHF;SNN;FCO;advanced condition failed
+XY-LQZ;16-08-2010;16-08-2010;;;true;  ;160810-VLC-NCL-2229-XY-LQZ;NCL;VLC;advanced condition failed
+XY-NMY;05-11-2014;05-11-2014;;;true;  ;051114-EIN-SEN-2832-XY-NMY;SEN;EIN;advanced condition failed
+XY-JXR;31-10-2013;31-10-2013;;;true;  ;311013-MST-SPU-5229-XY-JXR;SPU;MST;advanced condition failed
+XY-ZWJ;17-04-2010;17-04-2010;;;true;  ;170410-PMI-AYT-2622-XY-ZWJ;AYT;PMI;advanced condition failed
+XY-OHF;06-02-2014;06-02-2014;;;true;  ;060214-LIL-MLA-4828-XY-OHF;MLA;LIL;advanced condition failed
+XY-IWX;13-11-2010;13-11-2010;;;true;  ;131110-BOJ-IBZ-3815-XY-IWX;IBZ;BOJ;advanced condition failed
+XY-ALV;19-12-2015;19-12-2015;;;true;  ;191215-GYD-SNN-7467-XY-ALV;SNN;GYD;advanced condition failed
+XY-YAZ;27-03-2014;27-03-2014;;;true;  ;270314-ALC-BTS-7336-XY-YAZ;BTS;ALC;advanced condition failed
+XY-MBJ;01-02-2014;01-02-2014;;;true;  ;010214-TOS-VKO-3336-XY-MBJ;VKO;TOS;advanced condition failed
+XY-CMJ;29-01-2013;29-01-2013;;;true;  ;290113-KIR-CTA-9982-XY-CMJ;CTA;KIR;advanced condition failed
+XY-NMY;31-07-2011;31-07-2011;;;true;  ;310711-DME-FMO-1841-XY-NMY;FMO;DME;advanced condition failed
+XY-NHZ;07-02-2013;06-02-2013;;;true;  ;070213-BHX-BFS-5559-XY-NHZ;BFS;BHX;advanced condition failed
+XY-FBA;19-09-2014;19-09-2014;;;true;  ;190914-CIY-BLQ-5764-XY-FBA;BLQ;CIY;advanced condition failed
+XY-MBJ;01-11-2012;01-11-2012;;;true;  ;011112-LGG-BER-9538-XY-MBJ;BER;LGG;advanced condition failed
+XY-LQZ;10-09-2014;10-09-2014;;;true;  ;100914-ATH-AMS-1223-XY-LQZ;AMS;ATH;advanced condition failed
+XY-NMY;15-02-2013;15-02-2013;;;true;  ;150213-GRO-AGP-7549-XY-NMY;AGP;GRO;advanced condition failed
+XY-ZWJ;18-03-2016;18-03-2016;;;true;  ;180316-BTS-ADB-2322-XY-ZWJ;ADB;BTS;advanced condition failed
+XY-NHZ;17-10-2013;17-10-2013;;;true;  ;171013-HAU-SDR-9973-XY-NHZ;SDR;HAU;advanced condition failed
+XY-MBJ;22-08-2010;22-08-2010;;;true;  ;220810-ODS-BRU-9597-XY-MBJ;BRU;ODS;advanced condition failed
+XY-OHF;15-09-2012;15-09-2012;;;true;  ;150912-LWO-ATH-2982-XY-OHF;ATH;LWO;advanced condition failed
+XY-OFW;28-03-2010;28-03-2010;;;true;  ;280310-SVG-BHD-9889-XY-OFW;BHD;SVG;advanced condition failed
+XY-FBA;13-08-2015;13-08-2015;;;true;  ;130815-TSE-FLR-1644-XY-FBA;FLR;TSE;advanced condition failed
+XY-NHZ;29-09-2011;29-09-2011;;;true;  ;290911-GOT-POZ-6531-XY-NHZ;POZ;GOT;advanced condition failed
+XY-MBJ;13-01-2010;12-01-2010;;;true;  ;130110-CIY-RHO-7982-XY-MBJ;RHO;CIY;advanced condition failed
+XY-OHF;22-06-2010;22-06-2010;;;true;  ;220610-FNC-BIQ-5611-XY-OHF;BIQ;FNC;advanced condition failed
+XY-FBA;17-09-2010;17-09-2010;;;true;  ;170910-BOD-ESB-4536-XY-FBA;ESB;BOD;advanced condition failed
+XY-NMY;26-05-2016;26-05-2016;;;true;  ;260516-BCN-LEI-5832-XY-NMY;LEI;BCN;advanced condition failed
+XY-YTM;09-09-2015;09-09-2015;;;true;  ;090915-KIR-SZG-3979-XY-YTM;SZG;KIR;advanced condition failed
+XY-JXR;02-06-2015;02-06-2015;;;true;  ;020615-PSA-SJJ-9734-XY-JXR;SJJ;PSA;advanced condition failed
+XY-OFW;13-10-2015;13-10-2015;;;true;  ;131015-LTN-RHO-3847-XY-OFW;RHO;LTN;advanced condition failed
+XY-IOO;06-12-2015;06-12-2015;;;true;  ;061215-ALC-INI-3433-XY-IOO;INI;ALC;advanced condition failed
+XY-NMY;24-11-2010;23-11-2010;;;true;  ;241110-PEG-ORK-2439-XY-NMY;ORK;PEG;advanced condition failed
+XY-ZMF;16-10-2012;16-10-2012;;;true;  ;161012-IBZ-SEN-6629-XY-ZMF;SEN;IBZ;advanced condition failed
+XY-ZWJ;27-11-2016;27-11-2016;;;true;  ;271116-GDN-IST-9517-XY-ZWJ;IST;GDN;advanced condition failed
+XY-JXR;03-06-2012;03-06-2012;;;true;  ;030612-BEG-TRF-7548-XY-JXR;TRF;BEG;advanced condition failed
+XY-IWX;01-05-2011;01-05-2011;01-05-2011;01-05-2011;false;36;010511-CLJ-PRN-2465-XY-IWX;PRN;CLJ;advanced condition failed
+XY-OHF;04-07-2012;04-07-2012;04-07-2012;04-07-2012;false;45;040712-BHD-ORK-1388-XY-OHF;ORK;BHD;advanced condition failed
+XY-ALV;02-07-2010;02-07-2010;02-07-2010;02-07-2010;false;28;020710-STR-TRD-9441-XY-ALV;TRD;STR;advanced condition failed
+XY-YAZ;16-02-2014;16-02-2014;16-02-2014;16-02-2014;false;99;160214-TXL-LIN-3764-XY-YAZ;LIN;TXL;advanced condition failed
+XY-ZDY;14-05-2011;14-05-2011;14-05-2011;14-05-2011;false;99;140511-ARN-BOD-2267-XY-ZDY;BOD;ARN;advanced condition failed
+XY-YTM;08-03-2012;08-03-2012;08-03-2012;08-03-2012;false;06;080312-MXP-DRS-5276-XY-YTM;DRS;MXP;advanced condition failed
+XY-FBA;14-03-2015;14-03-2015;14-03-2015;14-03-2015;false;03;140315-TIA-OSL-2476-XY-FBA;OSL;TIA;advanced condition failed
+XY-PZC;21-02-2012;21-02-2012;21-02-2012;21-02-2012;false;42;210212-ZTH-BTS-9481-XY-PZC;BTS;ZTH;advanced condition failed
+XY-ZMF;10-07-2014;10-07-2014;10-07-2014;10-07-2014;false;35;100714-LYS-FLR-7745-XY-ZMF;FLR;LYS;advanced condition failed
+XY-YAZ;15-08-2014;15-08-2014;15-08-2014;15-08-2014;false;99;150814-NRN-EVN-3271-XY-YAZ;EVN;NRN;advanced condition failed
+XY-ZWJ;08-10-2016;08-10-2016;08-10-2016;08-10-2016;false;77;081016-GOT-FMO-9627-XY-ZWJ;FMO;GOT;advanced condition failed
+XY-CMJ;12-03-2013;12-03-2013;13-03-2013;13-03-2013;false;77;120313-TRN-WRO-7963-XY-CMJ;WRO;TRN;advanced condition failed
+XY-ZMF;26-06-2012;26-06-2012;26-06-2012;26-06-2012;false;65;260612-BHX-BOO-6889-XY-ZMF;BOO;BHX;advanced condition failed
+XY-LYP;11-10-2016;10-10-2016;;;true;  ;111016-SOF-STR-5878-XY-LYP;STR;SOF;advanced condition failed
+XY-IOO;23-03-2014;23-03-2014;;;true;  ;230314-TMP-HUY-7816-XY-IOO;HUY;TMP;advanced condition failed
+XY-NMY;16-06-2013;16-06-2013;;;true;  ;160613-GRZ-CIY-9239-XY-NMY;CIY;GRZ;advanced condition failed
+XY-IOO;15-04-2010;15-04-2010;;;true;  ;150410-BRE-TIA-3615-XY-IOO;TIA;BRE;advanced condition failed
+XY-ZDY;29-10-2015;29-10-2015;;;true;  ;291015-MAH-PMI-3818-XY-ZDY;PMI;MAH;advanced condition failed
+XY-PZC;04-11-2016;04-11-2016;04-11-2016;04-11-2016;false;05;041116-BIA-BHX-5373-XY-PZC;BHX;BIA;advanced condition failed
+XY-FBA;16-04-2010;16-04-2010;16-04-2010;17-04-2010;false;03;160410-MRS-HER-2536-XY-FBA;HER;MRS;advanced condition failed
+XY-LYP;27-07-2014;27-07-2014;27-07-2014;27-07-2014;false;46;270714-TZL-BRQ-5396-XY-LYP;BRQ;TZL;advanced condition failed
+XY-ZWJ;01-03-2014;28-02-2014;01-03-2014;01-03-2014;false;11;010314-GRQ-FCO-9388-XY-ZWJ;FCO;GRQ;advanced condition failed
+XY-CMJ;09-12-2016;09-12-2016;09-12-2016;09-12-2016;false;11;091216-LGG-LJU-8148-XY-CMJ;LJU;LGG;advanced condition failed
+XY-ZMF;21-03-2011;21-03-2011;21-03-2011;21-03-2011;false;65;210311-FNC-HAM-1539-XY-ZMF;HAM;FNC;advanced condition failed
+XY-FBA;27-07-2015;27-07-2015;27-07-2015;27-07-2015;false;36;270715-KEF-BRQ-8637-XY-FBA;BRQ;KEF;advanced condition failed
+XY-JXR;13-07-2014;13-07-2014;13-07-2014;14-07-2014;false;22;130714-PUY-TBS-3899-XY-JXR;TBS;PUY;advanced condition failed
+XY-ZWJ;18-07-2010;18-07-2010;18-07-2010;18-07-2010;false;01;180710-HEL-BRQ-8726-XY-ZWJ;BRQ;HEL;advanced condition failed
+XY-FBA;09-09-2015;09-09-2015;09-09-2015;09-09-2015;false;35;090915-JTR-KIR-8816-XY-FBA;KIR;JTR;advanced condition failed
+XY-CMJ;21-12-2012;21-12-2012;21-12-2012;21-12-2012;false;55;211212-SXB-AER-3149-XY-CMJ;AER;SXB;advanced condition failed
+XY-NHZ;18-05-2013;18-05-2013;18-05-2013;18-05-2013;false;27;180513-XRY-ORY-6671-XY-NHZ;ORY;XRY;advanced condition failed
+XY-ZWJ;25-12-2012;24-12-2012;25-12-2012;25-12-2012;false;17;251212-ZAG-VIE-4859-XY-ZWJ;VIE;ZAG;advanced condition failed
+XY-NHZ;27-05-2014;26-05-2014;27-05-2014;27-05-2014;false;44;270514-TLL-TSR-9573-XY-NHZ;TSR;TLL;advanced condition failed
+XY-OZH;01-09-2011;01-09-2011;01-09-2011;01-09-2011;false;28;010911-KTW-SVQ-7644-XY-OZH;SVQ;KTW;advanced condition failed
+XY-NHZ;15-05-2013;15-05-2013;15-05-2013;15-05-2013;false;25;150513-FSC-BEG-8121-XY-NHZ;BEG;FSC;advanced condition failed
+XY-ZWJ;20-11-2016;20-11-2016;20-11-2016;20-11-2016;false;87;201116-PUY-IEV-4858-XY-ZWJ;IEV;PUY;advanced condition failed
+XY-OFW;26-05-2010;26-05-2010;26-05-2010;26-05-2010;false;14;260510-TPS-RIX-8948-XY-OFW;RIX;TPS;advanced condition failed
+XY-LQZ;22-08-2010;22-08-2010;22-08-2010;22-08-2010;false;73;220810-SVG-TRN-5313-XY-LQZ;TRN;SVG;advanced condition failed
+XY-IWX;16-07-2010;16-07-2010;16-07-2010;16-07-2010;false;29;160710-FDH-ANR-6164-XY-IWX;ANR;FDH;advanced condition failed
+XY-IOO;30-12-2015;30-12-2015;31-12-2015;31-12-2015;false;15;301215-BDS-SJJ-4465-XY-IOO;SJJ;BDS;advanced condition failed
+XY-LYP;22-03-2014;22-03-2014;22-03-2014;22-03-2014;false;72;220314-RMU-GRQ-2451-XY-LYP;GRQ;RMU;advanced condition failed
+XY-LQZ;11-07-2010;11-07-2010;11-07-2010;11-07-2010;false;09;110710-OUL-SOU-5878-XY-LQZ;SOU;OUL;advanced condition failed
+XY-IOO;26-08-2012;26-08-2012;26-08-2012;26-08-2012;false;44;260812-VCE-AYT-3211-XY-IOO;AYT;VCE;advanced condition failed
+XY-PZC;08-08-2014;08-08-2014;08-08-2014;08-08-2014;false;23;080814-LPL-SAW-4925-XY-PZC;SAW;LPL;advanced condition failed
+XY-CMJ;04-04-2012;03-04-2012;04-04-2012;04-04-2012;false;23;040412-BRQ-ALA-1337-XY-CMJ;ALA;BRQ;advanced condition failed
+XY-LQZ;24-02-2013;24-02-2013;24-02-2013;24-02-2013;false;97;240213-DBV-DRS-7669-XY-LQZ;DRS;DBV;advanced condition failed
+XY-JXR;24-05-2016;24-05-2016;24-05-2016;24-05-2016;false;21;240516-BGY-CIA-6851-XY-JXR;CIA;BGY;advanced condition failed
+XY-ZDY;01-12-2012;01-12-2012;01-12-2012;01-12-2012;false;01;011212-KBP-FMM-6331-XY-ZDY;FMM;KBP;advanced condition failed
+XY-ZMF;15-03-2012;15-03-2012;15-03-2012;15-03-2012;false;98;150312-ARN-VAA-8921-XY-ZMF;VAA;ARN;advanced condition failed
+XY-ZMF;20-06-2012;19-06-2012;20-06-2012;20-06-2012;false;24;200612-RTM-LIL-6994-XY-ZMF;LIL;RTM;advanced condition failed
+XY-NHZ;08-12-2013;08-12-2013;08-12-2013;08-12-2013;false;57;081213-TLN-LIL-7653-XY-NHZ;LIL;TLN;advanced condition failed
+XY-YTM;14-10-2015;14-10-2015;14-10-2015;15-10-2015;false;65;141015-TSE-ZAZ-8269-XY-YTM;ZAZ;TSE;advanced condition failed
+XY-CMJ;07-06-2016;07-06-2016;07-06-2016;07-06-2016;false;52;070616-CHQ-TBS-5991-XY-CMJ;TBS;CHQ;advanced condition failed
+XY-ZMF;20-05-2012;20-05-2012;20-05-2012;21-05-2012;false;18;200512-BOJ-BES-6755-XY-ZMF;BES;BOJ;advanced condition failed
+XY-MBJ;15-05-2014;15-05-2014;15-05-2014;15-05-2014;false;24;150514-SXF-FAE-2259-XY-MBJ;FAE;SXF;advanced condition failed
+XY-ZWJ;19-04-2016;19-04-2016;19-04-2016;19-04-2016;false;12;190416-LED-ALA-9799-XY-ZWJ;ALA;LED;advanced condition failed
+XY-ZWJ;20-05-2015;20-05-2015;20-05-2015;20-05-2015;false;92;200515-AJA-BRS-5945-XY-ZWJ;BRS;AJA;advanced condition failed
+XY-LQZ;15-05-2013;15-05-2013;15-05-2013;15-05-2013;false;52;150513-CPH-HHN-2989-XY-LQZ;HHN;CPH;advanced condition failed
+XY-NMY;31-03-2010;31-03-2010;31-03-2010;31-03-2010;false;39;310310-CLJ-TGD-3561-XY-NMY;TGD;CLJ;advanced condition failed
+XY-JXR;18-04-2010;18-04-2010;18-04-2010;18-04-2010;false;35;180410-AYT-KBP-7939-XY-JXR;KBP;AYT;advanced condition failed
+XY-NHZ;22-10-2015;22-10-2015;22-10-2015;22-10-2015;false;62;221015-LYS-TRN-9277-XY-NHZ;TRN;LYS;advanced condition failed
+XY-PZC;10-10-2015;10-10-2015;10-10-2015;10-10-2015;false;66;101015-CIA-BCN-2265-XY-PZC;BCN;CIA;advanced condition failed
+XY-YAZ;14-02-2013;14-02-2013;14-02-2013;14-02-2013;false;39;140213-LGG-RHO-3723-XY-YAZ;RHO;LGG;advanced condition failed
+XY-JXR;15-02-2015;15-02-2015;16-02-2015;16-02-2015;false;94;150215-BEG-FNC-6853-XY-JXR;FNC;BEG;advanced condition failed
+XY-OFW;15-08-2013;15-08-2013;15-08-2013;15-08-2013;false;84;150813-BHD-SXB-9194-XY-OFW;SXB;BHD;advanced condition failed
+XY-OFW;26-02-2011;25-02-2011;26-02-2011;26-02-2011;false;68;260211-FRA-BRE-2615-XY-OFW;BRE;FRA;advanced condition failed
+XY-OHF;29-11-2016;29-11-2016;29-11-2016;29-11-2016;false;03;291116-TRN-JER-6278-XY-OHF;JER;TRN;advanced condition failed
+XY-ZWJ;04-09-2014;04-09-2014;04-09-2014;05-09-2014;false;85;040914-TPS-HHN-5261-XY-ZWJ;HHN;TPS;advanced condition failed
+XY-ZWJ;12-05-2010;12-05-2010;12-05-2010;12-05-2010;false;84;120510-BOJ-JTR-2686-XY-ZWJ;JTR;BOJ;advanced condition failed
+XY-OZH;20-05-2010;20-05-2010;20-05-2010;20-05-2010;false;72;200510-SOU-MAH-7871-XY-OZH;MAH;SOU;advanced condition failed
+XY-LQZ;26-11-2016;26-11-2016;26-11-2016;26-11-2016;false;34;261116-EXT-FMO-8322-XY-LQZ;FMO;EXT;advanced condition failed
+XY-ALV;07-12-2016;07-12-2016;07-12-2016;07-12-2016;false;25;071216-LEJ-LGG-1968-XY-ALV;LGG;LEJ;advanced condition failed
+XY-ZMF;21-08-2010;21-08-2010;21-08-2010;21-08-2010;false;51;210810-TIA-BLQ-9455-XY-ZMF;BLQ;TIA;advanced condition failed
+XY-NHZ;04-11-2010;04-11-2010;04-11-2010;04-11-2010;false;68;041110-DME-TFN-6118-XY-NHZ;TFN;DME;advanced condition failed
+XY-PZC;10-09-2012;10-09-2012;10-09-2012;11-09-2012;false;52;100912-BLL-SVX-8259-XY-PZC;SVX;BLL;advanced condition failed
+XY-YAZ;02-10-2013;02-10-2013;02-10-2013;02-10-2013;false;05;021013-OVB-STR-4553-XY-YAZ;STR;OVB;advanced condition failed
+XY-JXR;14-02-2011;14-02-2011;14-02-2011;14-02-2011;false;23;140211-TFN-VAA-4937-XY-JXR;VAA;TFN;advanced condition failed
+XY-OFW;07-04-2015;07-04-2015;07-04-2015;07-04-2015;false;08;070415-PDL-BOO-8282-XY-OFW;BOO;PDL;advanced condition failed
+XY-YTM;26-02-2012;26-02-2012;26-02-2012;27-02-2012;false;37;260212-PRG-NRN-1428-XY-YTM;NRN;PRG;advanced condition failed
+XY-IWX;26-12-2016;26-12-2016;26-12-2016;26-12-2016;false;52;261216-WAW-DUB-4325-XY-IWX;DUB;WAW;advanced condition failed
+XY-LYP;22-11-2013;22-11-2013;22-11-2013;22-11-2013;false;73;221113-EVN-CIY-6322-XY-LYP;CIY;EVN;advanced condition failed
+XY-LYP;15-07-2011;15-07-2011;15-07-2011;15-07-2011;false;15;150711-KIR-VAR-1556-XY-LYP;VAR;KIR;advanced condition failed
+XY-FBA;14-12-2015;14-12-2015;14-12-2015;14-12-2015;false;84;141215-REU-TSR-9446-XY-FBA;TSR;REU;advanced condition failed
+XY-MBJ;22-04-2011;22-04-2011;22-04-2011;22-04-2011;false;37;220411-LED-CPH-9938-XY-MBJ;CPH;LED;advanced condition failed
+XY-NMY;25-12-2012;24-12-2012;25-12-2012;25-12-2012;false;77;251212-DUB-BES-7566-XY-NMY;BES;DUB;advanced condition failed
+XY-ZDY;22-03-2016;22-03-2016;22-03-2016;22-03-2016;false;67;220316-SCQ-AES-2385-XY-ZDY;AES;SCQ;advanced condition failed
+XY-ZDY;18-08-2016;18-08-2016;18-08-2016;19-08-2016;false;25;180816-BTS-SNN-7723-XY-ZDY;SNN;BTS;advanced condition failed
+XY-PZC;27-01-2016;27-01-2016;27-01-2016;27-01-2016;false;51;270116-FDH-NYO-1524-XY-PZC;NYO;FDH;advanced condition failed
+XY-JXR;31-01-2013;31-01-2013;31-01-2013;01-02-2013;false;76;310113-BRS-TOS-1517-XY-JXR;TOS;BRS;advanced condition failed
+XY-JXR;17-02-2015;17-02-2015;17-02-2015;17-02-2015;false;62;170215-LCA-ALC-9274-XY-JXR;ALC;LCA;advanced condition failed
+XY-FBA;06-10-2013;06-10-2013;06-10-2013;06-10-2013;false;32;061013-CAG-LGG-1217-XY-FBA;LGG;CAG;advanced condition failed
+XY-IOO;01-04-2010;01-04-2010;02-04-2010;02-04-2010;false;43;010410-VAA-NYO-5389-XY-IOO;NYO;VAA;advanced condition failed
+XY-OFW;08-04-2012;08-04-2012;08-04-2012;08-04-2012;false;56;080412-BHX-WRO-9136-XY-OFW;WRO;BHX;advanced condition failed
+XY-JXR;23-03-2010;22-03-2010;23-03-2010;23-03-2010;false;22;230310-STR-MPL-7624-XY-JXR;MPL;STR;advanced condition failed
+XY-CMJ;18-05-2014;18-05-2014;18-05-2014;18-05-2014;false;47;180514-EGC-AGP-3593-XY-CMJ;AGP;EGC;advanced condition failed
+XY-ALV;05-10-2011;05-10-2011;05-10-2011;06-10-2011;false;95;051011-SOF-ZTH-7972-XY-ALV;ZTH;SOF;advanced condition failed
+XY-NHZ;25-08-2011;25-08-2011;25-08-2011;25-08-2011;false;09;250811-KUN-SJJ-4188-XY-NHZ;SJJ;KUN;advanced condition failed
+XY-ZWJ;25-02-2013;25-02-2013;25-02-2013;25-02-2013;false;27;250213-OVB-FNC-1128-XY-ZWJ;FNC;OVB;advanced condition failed
+XY-OHF;12-11-2010;11-11-2010;12-11-2010;12-11-2010;false;64;121110-KGS-ADA-2896-XY-OHF;ADA;KGS;advanced condition failed
+XY-ZMF;26-05-2016;26-05-2016;26-05-2016;26-05-2016;false;01;260516-HAM-CIA-2116-XY-ZMF;CIA;HAM;advanced condition failed
+XY-YAZ;01-04-2011;01-04-2011;01-04-2011;01-04-2011;false;93;010411-FKB-SEN-3174-XY-YAZ;SEN;FKB;advanced condition failed
+XY-ZWJ;05-01-2016;05-01-2016;05-01-2016;05-01-2016;false;61;050116-EGC-PUY-6845-XY-ZWJ;PUY;EGC;advanced condition failed
+XY-NHZ;04-10-2011;04-10-2011;04-10-2011;04-10-2011;false;15;041011-BUD-SOU-2937-XY-NHZ;SOU;BUD;advanced condition failed
+XY-ALV;08-12-2016;08-12-2016;08-12-2016;08-12-2016;false;43;081216-TGD-AGP-3726-XY-ALV;AGP;TGD;advanced condition failed
+XY-OHF;12-12-2011;11-12-2011;12-12-2011;12-12-2011;false;61;121211-HAU-LIN-3926-XY-OHF;LIN;HAU;advanced condition failed
+XY-OZH;21-12-2016;21-12-2016;21-12-2016;21-12-2016;false;97;211216-GOT-INI-6396-XY-OZH;INI;GOT;advanced condition failed
+XY-LYP;02-06-2016;02-06-2016;02-06-2016;02-06-2016;false;16;020616-ODS-TGD-8852-XY-LYP;TGD;ODS;advanced condition failed
+XY-ZDY;14-08-2011;14-08-2011;14-08-2011;15-08-2011;false;14;140811-WRO-VKO-9564-XY-ZDY;VKO;WRO;advanced condition failed
+XY-ALV;25-03-2014;25-03-2014;25-03-2014;25-03-2014;false;56;250314-PDL-BLL-7551-XY-ALV;BLL;PDL;advanced condition failed
+XY-ZDY;19-01-2010;19-01-2010;19-01-2010;19-01-2010;false;62;190110-FAE-HAM-8289-XY-ZDY;HAM;FAE;advanced condition failed
+XY-ZDY;31-08-2012;31-08-2012;31-08-2012;01-09-2012;false;37;310812-BSL-SVG-7974-XY-ZDY;SVG;BSL;advanced condition failed
+XY-ZMF;27-10-2010;27-10-2010;27-10-2010;27-10-2010;false;00;271010-XRY-TIV-4125-XY-ZMF;TIV;XRY;advanced condition failed
+XY-ALV;08-10-2016;08-10-2016;08-10-2016;09-10-2016;false;92;081016-SUF-IST-1364-XY-ALV;IST;SUF;advanced condition failed
+XY-YAZ;15-11-2013;15-11-2013;15-11-2013;15-11-2013;false;98;151113-RHO-HER-7831-XY-YAZ;HER;RHO;advanced condition failed
+XY-CMJ;16-02-2016;16-02-2016;16-02-2016;16-02-2016;false;88;160216-DLM-PMO-4862-XY-CMJ;PMO;DLM;advanced condition failed
+XY-YAZ;14-07-2013;14-07-2013;15-07-2013;15-07-2013;false;99;140713-LYS-BER-2761-XY-YAZ;BER;LYS;advanced condition failed
+XY-OZH;05-10-2012;05-10-2012;05-10-2012;05-10-2012;false;25;051012-HUY-LUX-5752-XY-OZH;LUX;HUY;advanced condition failed
+XY-ZMF;15-02-2015;15-02-2015;15-02-2015;16-02-2015;false;43;150215-TLS-DSA-1443-XY-ZMF;DSA;TLS;advanced condition failed
+XY-FBA;26-10-2015;26-10-2015;26-10-2015;26-10-2015;false;34;261015-MLA-NUE-9249-XY-FBA;NUE;MLA;advanced condition failed
+XY-LQZ;26-07-2013;26-07-2013;26-07-2013;26-07-2013;false;36;260713-DSA-SZG-9289-XY-LQZ;SZG;DSA;advanced condition failed
+XY-NMY;30-10-2013;30-10-2013;30-10-2013;30-10-2013;false;94;301013-CIY-VKO-7977-XY-NMY;VKO;CIY;advanced condition failed
+XY-YTM;05-09-2012;05-09-2012;05-09-2012;05-09-2012;false;61;050912-AYT-FLR-1877-XY-YTM;FLR;AYT;advanced condition failed
+XY-LYP;18-07-2014;18-07-2014;18-07-2014;18-07-2014;false;12;180714-PSA-VKO-8219-XY-LYP;VKO;PSA;advanced condition failed
+XY-IOO;31-05-2012;31-05-2012;31-05-2012;31-05-2012;false;26;310512-SVO-BRS-6734-XY-IOO;BRS;SVO;advanced condition failed
+XY-OFW;01-10-2012;01-10-2012;01-10-2012;01-10-2012;false;91;011012-ZRH-LGG-4168-XY-OFW;LGG;ZRH;advanced condition failed
+XY-PZC;10-04-2016;10-04-2016;10-04-2016;10-04-2016;false;77;100416-PUY-TZL-4724-XY-PZC;TZL;PUY;advanced condition failed
+XY-IOO;30-01-2015;30-01-2015;30-01-2015;30-01-2015;false;21;300115-MLA-BER-3874-XY-IOO;BER;MLA;advanced condition failed
+XY-OZH;11-02-2016;11-02-2016;11-02-2016;11-02-2016;false;93;110216-HAU-OSL-8769-XY-OZH;OSL;HAU;advanced condition failed
+XY-MBJ;25-04-2012;25-04-2012;25-04-2012;26-04-2012;false;12;250412-FKB-HAM-2881-XY-MBJ;HAM;FKB;advanced condition failed
+XY-OZH;15-07-2016;15-07-2016;15-07-2016;15-07-2016;false;25;150716-JTR-EIN-9433-XY-OZH;EIN;JTR;advanced condition failed
+XY-IOO;16-12-2011;16-12-2011;16-12-2011;16-12-2011;false;99;161211-PRG-PMO-3727-XY-IOO;PMO;PRG;advanced condition failed
+XY-CMJ;13-02-2016;13-02-2016;13-02-2016;14-02-2016;false;03;130216-FSC-ZAG-6953-XY-CMJ;ZAG;FSC;advanced condition failed
+XY-FBA;22-04-2016;22-04-2016;22-04-2016;22-04-2016;false;04;220416-ALC-VRN-3373-XY-FBA;VRN;ALC;advanced condition failed
+XY-LQZ;10-07-2010;10-07-2010;10-07-2010;10-07-2010;false;88;100710-NCE-PSA-4528-XY-LQZ;PSA;NCE;advanced condition failed
+XY-NMY;22-09-2011;22-09-2011;23-09-2011;23-09-2011;false;88;220911-DRS-LGW-7163-XY-NMY;LGW;DRS;advanced condition failed
+XY-JXR;07-06-2016;07-06-2016;07-06-2016;07-06-2016;false;69;070616-LUG-BDS-3665-XY-JXR;BDS;LUG;advanced condition failed
+XY-ZMF;12-01-2013;12-01-2013;12-01-2013;12-01-2013;false;02;120113-AER-SZG-5512-XY-ZMF;SZG;AER;advanced condition failed
+XY-OHF;20-07-2010;20-07-2010;20-07-2010;20-07-2010;false;88;200710-WMI-EMA-6366-XY-OHF;EMA;WMI;advanced condition failed
+XY-NMY;14-10-2013;14-10-2013;14-10-2013;14-10-2013;false;23;141013-BCN-XRY-3986-XY-NMY;XRY;BCN;advanced condition failed
+XY-ZMF;15-01-2014;14-01-2014;15-01-2014;15-01-2014;false;67;150114-SEN-FDH-8867-XY-ZMF;FDH;SEN;advanced condition failed
+XY-ZDY;09-09-2012;09-09-2012;09-09-2012;09-09-2012;false;42;090912-ODS-BEG-2819-XY-ZDY;BEG;ODS;advanced condition failed
+XY-OHF;30-10-2012;30-10-2012;30-10-2012;30-10-2012;false;67;301012-JTR-DTM-2412-XY-OHF;DTM;JTR;advanced condition failed
+XY-IWX;02-11-2014;02-11-2014;02-11-2014;02-11-2014;false;83;021114-BIA-DTM-6936-XY-IWX;DTM;BIA;advanced condition failed
+XY-OZH;12-07-2010;12-07-2010;12-07-2010;12-07-2010;false;55;120710-ZAZ-MAD-8558-XY-OZH;MAD;ZAZ;advanced condition failed
+XY-ZWJ;16-12-2013;16-12-2013;16-12-2013;16-12-2013;false;64;161213-FMM-BIO-2338-XY-ZWJ;BIO;FMM;advanced condition failed
+XY-ZDY;26-01-2015;26-01-2015;26-01-2015;26-01-2015;false;12;260115-PIK-KIR-2562-XY-ZDY;KIR;PIK;advanced condition failed
+XY-ALV;08-09-2015;07-09-2015;08-09-2015;08-09-2015;false;34;080915-RTM-NRN-5864-XY-ALV;NRN;RTM;advanced condition failed
+XY-YAZ;16-08-2011;15-08-2011;16-08-2011;16-08-2011;false;67;160811-ACE-WAW-8718-XY-YAZ;WAW;ACE;advanced condition failed
+XY-LQZ;24-01-2013;24-01-2013;24-01-2013;24-01-2013;false;58;240113-FKB-LCA-8748-XY-LQZ;LCA;FKB;advanced condition failed
+XY-ZWJ;19-02-2013;19-02-2013;19-02-2013;19-02-2013;false;06;190213-GRO-MSQ-3889-XY-ZWJ;MSQ;GRO;advanced condition failed
+XY-IOO;02-12-2015;02-12-2015;02-12-2015;02-12-2015;false;12;021215-BHX-PFO-3665-XY-IOO;PFO;BHX;advanced condition failed
+XY-IOO;26-11-2015;26-11-2015;26-11-2015;26-11-2015;false;26;261115-POZ-DBV-2956-XY-IOO;DBV;POZ;advanced condition failed
+XY-ALV;24-09-2015;24-09-2015;24-09-2015;24-09-2015;false;91;240915-BGO-SVG-5613-XY-ALV;SVG;BGO;advanced condition failed
+XY-ZWJ;25-06-2012;25-06-2012;25-06-2012;25-06-2012;false;68;250612-BOD-AOI-3838-XY-ZWJ;AOI;BOD;advanced condition failed
+XY-OZH;27-09-2012;27-09-2012;27-09-2012;27-09-2012;false;99;270912-LPA-TFS-2641-XY-OZH;TFS;LPA;advanced condition failed
+XY-OHF;27-01-2010;27-01-2010;27-01-2010;27-01-2010;false;16;270110-LGW-SOU-9276-XY-OHF;SOU;LGW;advanced condition failed
+XY-ZMF;15-08-2013;15-08-2013;15-08-2013;15-08-2013;false;19;150813-CAG-FLR-6794-XY-ZMF;FLR;CAG;advanced condition failed
+XY-ALV;09-05-2014;09-05-2014;09-05-2014;09-05-2014;false;58;090514-BMA-TFN-4513-XY-ALV;TFN;BMA;advanced condition failed
+XY-LYP;29-07-2010;29-07-2010;29-07-2010;29-07-2010;false;99;290710-ANR-LPL-2568-XY-LYP;LPL;ANR;advanced condition failed
+XY-IOO;30-05-2011;30-05-2011;30-05-2011;30-05-2011;false;18;300511-LIL-WRO-1833-XY-IOO;WRO;LIL;advanced condition failed
+XY-YTM;24-07-2010;24-07-2010;24-07-2010;24-07-2010;false;55;240710-BGO-ACE-3631-XY-YTM;ACE;BGO;advanced condition failed
+XY-PZC;16-08-2013;16-08-2013;16-08-2013;16-08-2013;false;81;160813-TSE-LWO-3818-XY-PZC;LWO;TSE;advanced condition failed
+XY-ZMF;26-06-2011;26-06-2011;26-06-2011;26-06-2011;false;01;260611-RUN-BCN-6534-XY-ZMF;BCN;RUN;advanced condition failed
+XY-OHF;24-02-2015;23-02-2015;24-02-2015;24-02-2015;false;26;240215-TIV-INI-1221-XY-OHF;INI;TIV;advanced condition failed
+XY-PZC;04-07-2013;04-07-2013;04-07-2013;04-07-2013;false;95;040713-TZX-BER-8282-XY-PZC;BER;TZX;advanced condition failed
+XY-ALV;16-02-2016;16-02-2016;16-02-2016;16-02-2016;false;71;160216-VRN-LUX-7719-XY-ALV;LUX;VRN;advanced condition failed
+XY-FBA;10-08-2016;10-08-2016;10-08-2016;10-08-2016;false;39;100816-MSQ-LGG-5964-XY-FBA;LGG;MSQ;advanced condition failed
+XY-MBJ;28-06-2010;28-06-2010;28-06-2010;28-06-2010;false;77;280610-LIN-RTM-4574-XY-MBJ;RTM;LIN;advanced condition failed
+XY-IOO;28-11-2012;27-11-2012;28-11-2012;28-11-2012;false;91;281112-NOC-MUC-5793-XY-IOO;MUC;NOC;advanced condition failed
+XY-FBA;28-05-2011;28-05-2011;28-05-2011;28-05-2011;false;99;280511-TFN-TLN-4679-XY-FBA;TLN;TFN;advanced condition failed
+XY-OHF;22-06-2013;22-06-2013;22-06-2013;22-06-2013;false;09;220613-LIL-CIY-1843-XY-OHF;CIY;LIL;advanced condition failed
+XY-ALV;03-12-2016;02-12-2016;03-12-2016;03-12-2016;false;02;031216-BGY-LTN-8434-XY-ALV;LTN;BGY;advanced condition failed
+XY-FBA;17-01-2010;17-01-2010;17-01-2010;17-01-2010;false;45;170110-IAS-LBA-4867-XY-FBA;LBA;IAS;advanced condition failed
+XY-ZWJ;12-04-2013;12-04-2013;12-04-2013;12-04-2013;false;48;120413-LIL-TBS-1743-XY-ZWJ;TBS;LIL;advanced condition failed
+XY-OHF;08-02-2013;08-02-2013;08-02-2013;08-02-2013;false;82;080213-REU-TFS-5991-XY-OHF;TFS;REU;advanced condition failed
+XY-NMY;14-04-2013;14-04-2013;14-04-2013;14-04-2013;false;04;140413-PDL-KTW-5637-XY-NMY;KTW;PDL;advanced condition failed
+XY-ZDY;10-10-2012;10-10-2012;10-10-2012;10-10-2012;false;57;101012-MLA-NTE-1625-XY-ZDY;NTE;MLA;advanced condition failed
+XY-PZC;03-11-2011;03-11-2011;03-11-2011;03-11-2011;false;87;031111-SAW-GRO-2134-XY-PZC;GRO;SAW;advanced condition failed
+XY-ZMF;18-07-2011;18-07-2011;18-07-2011;18-07-2011;false;23;180711-WMI-LPL-3887-XY-ZMF;LPL;WMI;advanced condition failed
+XY-ZMF;23-07-2010;23-07-2010;23-07-2010;23-07-2010;false;38;230710-LCY-CFU-5137-XY-ZMF;CFU;LCY;advanced condition failed
+XY-OHF;07-01-2014;06-01-2014;07-01-2014;07-01-2014;false;25;070114-GOA-SDR-3862-XY-OHF;SDR;GOA;advanced condition failed
+XY-ZDY;09-01-2015;09-01-2015;09-01-2015;10-01-2015;false;69;090115-RUN-CHQ-9786-XY-ZDY;CHQ;RUN;advanced condition failed
+XY-NHZ;23-12-2013;23-12-2013;23-12-2013;24-12-2013;false;08;231213-ALA-HAU-8994-XY-NHZ;HAU;ALA;advanced condition failed
+XY-LYP;28-03-2011;28-03-2011;28-03-2011;28-03-2011;false;16;280311-TPS-MST-5356-XY-LYP;MST;TPS;advanced condition failed
+XY-LQZ;26-12-2016;26-12-2016;26-12-2016;26-12-2016;false;21;261216-BMA-KGS-2852-XY-LQZ;KGS;BMA;advanced condition failed
+XY-LYP;26-01-2016;26-01-2016;26-01-2016;26-01-2016;false;84;260116-VCE-ODS-5488-XY-LYP;ODS;VCE;advanced condition failed
+XY-YAZ;18-03-2012;18-03-2012;18-03-2012;18-03-2012;false;51;180312-HUY-BRE-5659-XY-YAZ;BRE;HUY;advanced condition failed
+XY-LYP;13-12-2013;12-12-2013;13-12-2013;13-12-2013;false;28;131213-FUE-AMS-1515-XY-LYP;AMS;FUE;advanced condition failed
+XY-OZH;20-02-2011;20-02-2011;20-02-2011;21-02-2011;false;09;200211-FSC-KGS-7911-XY-OZH;KGS;FSC;advanced condition failed
+XY-NMY;01-11-2012;31-10-2012;01-11-2012;01-11-2012;false;57;011112-LCA-KEF-7619-XY-NMY;KEF;LCA;advanced condition failed
+XY-NHZ;17-01-2016;17-01-2016;17-01-2016;17-01-2016;false;21;170116-KRS-JER-2721-XY-NHZ;JER;KRS;advanced condition failed
+XY-CMJ;26-05-2014;26-05-2014;26-05-2014;26-05-2014;false;15;260514-VRN-HAU-8586-XY-CMJ;HAU;VRN;advanced condition failed
+XY-YTM;27-06-2014;27-06-2014;27-06-2014;27-06-2014;false;17;270614-IAS-SVX-7332-XY-YTM;SVX;IAS;advanced condition failed
+XY-OFW;01-08-2014;01-08-2014;01-08-2014;01-08-2014;false;93;010814-NYO-OVB-1731-XY-OFW;OVB;NYO;advanced condition failed
+XY-OFW;29-08-2010;29-08-2010;29-08-2010;29-08-2010;false;38;290810-SAW-BIO-1633-XY-OFW;BIO;SAW;advanced condition failed
+XY-CMJ;29-09-2011;29-09-2011;29-09-2011;29-09-2011;false;62;290911-AES-SZG-8892-XY-CMJ;SZG;AES;advanced condition failed
+XY-LYP;07-07-2012;07-07-2012;07-07-2012;07-07-2012;false;89;070712-WMI-FRA-1637-XY-LYP;FRA;WMI;advanced condition failed
+XY-ZMF;13-01-2014;13-01-2014;13-01-2014;13-01-2014;false;71;130114-TZL-SOF-3979-XY-ZMF;SOF;TZL;advanced condition failed
+XY-PZC;15-01-2016;15-01-2016;16-01-2016;16-01-2016;false;09;150116-GOT-PUY-7764-XY-PZC;PUY;GOT;advanced condition failed
+XY-IWX;23-09-2016;23-09-2016;23-09-2016;23-09-2016;false;98;230916-MRS-EIN-4374-XY-IWX;EIN;MRS;advanced condition failed
+XY-OFW;17-03-2010;16-03-2010;17-03-2010;17-03-2010;false;27;170310-TKU-CDG-2798-XY-OFW;CDG;TKU;advanced condition failed
+XY-ZDY;16-09-2015;16-09-2015;16-09-2015;16-09-2015;false;18;160915-AMS-ALA-3696-XY-ZDY;ALA;AMS;advanced condition failed
+XY-YTM;19-08-2015;19-08-2015;19-08-2015;19-08-2015;false;15;190815-AGP-VLC-4662-XY-YTM;VLC;AGP;advanced condition failed
+XY-OFW;30-09-2010;29-09-2010;30-09-2010;30-09-2010;false;62;300910-INN-SVO-7299-XY-OFW;SVO;INN;advanced condition failed
+XY-YAZ;25-12-2014;25-12-2014;25-12-2014;25-12-2014;false;66;251214-BRN-FAE-1152-XY-YAZ;FAE;BRN;advanced condition failed
+XY-MBJ;15-01-2012;15-01-2012;15-01-2012;15-01-2012;false;84;150112-DUB-NUE-8163-XY-MBJ;NUE;DUB;advanced condition failed
+XY-YTM;08-02-2012;08-02-2012;08-02-2012;08-02-2012;false;89;080212-SXB-ATH-6256-XY-YTM;ATH;SXB;advanced condition failed
+XY-ZDY;30-09-2013;29-09-2013;30-09-2013;30-09-2013;false;62;300913-BIQ-FLR-6684-XY-ZDY;FLR;BIQ;advanced condition failed
+XY-PZC;17-01-2014;17-01-2014;17-01-2014;17-01-2014;false;86;170114-FMM-FCO-3119-XY-PZC;FCO;FMM;advanced condition failed
+XY-NHZ;27-01-2011;27-01-2011;27-01-2011;27-01-2011;false;34;270111-FKB-RUN-6473-XY-NHZ;RUN;FKB;advanced condition failed
+XY-PZC;30-04-2016;30-04-2016;30-04-2016;30-04-2016;false;29;300416-PUY-LWO-5555-XY-PZC;LWO;PUY;advanced condition failed
+XY-OFW;28-07-2014;28-07-2014;28-07-2014;29-07-2014;false;51;280714-AER-FRA-1514-XY-OFW;FRA;AER;advanced condition failed
+XY-PZC;11-02-2011;11-02-2011;11-02-2011;11-02-2011;false;15;110211-CLJ-OST-8925-XY-PZC;OST;CLJ;advanced condition failed
+XY-IWX;05-06-2014;05-06-2014;05-06-2014;05-06-2014;false;69;050614-SUF-CRL-5534-XY-IWX;CRL;SUF;advanced condition failed
+XY-PZC;13-01-2014;13-01-2014;13-01-2014;13-01-2014;false;01;130114-RUN-ORK-1813-XY-PZC;ORK;RUN;advanced condition failed
+XY-FBA;03-06-2012;02-06-2012;03-06-2012;03-06-2012;false;43;030612-BES-BJV-7976-XY-FBA;BJV;BES;advanced condition failed
+XY-JXR;25-03-2012;25-03-2012;25-03-2012;26-03-2012;false;08;250312-NCE-LIN-7177-XY-JXR;LIN;NCE;advanced condition failed
+XY-YTM;24-01-2014;23-01-2014;24-01-2014;24-01-2014;false;66;240114-AYT-MAH-6632-XY-YTM;MAH;AYT;advanced condition failed
+XY-ALV;27-12-2010;27-12-2010;27-12-2010;27-12-2010;false;43;271210-LUX-CWL-4677-XY-ALV;CWL;LUX;advanced condition failed
+XY-LYP;10-02-2010;10-02-2010;10-02-2010;10-02-2010;false;66;100210-LED-CIA-2942-XY-LYP;CIA;LED;advanced condition failed
+XY-NHZ;18-12-2013;18-12-2013;18-12-2013;18-12-2013;false;38;181213-SPU-CTA-2637-XY-NHZ;CTA;SPU;advanced condition failed
+XY-ZWJ;19-05-2013;19-05-2013;19-05-2013;19-05-2013;false;02;190513-TRD-PMO-5995-XY-ZWJ;PMO;TRD;advanced condition failed
+XY-YAZ;30-08-2013;30-08-2013;30-08-2013;30-08-2013;false;71;300813-JER-ZAG-9572-XY-YAZ;ZAG;JER;advanced condition failed
+XY-YTM;01-03-2013;01-03-2013;01-03-2013;01-03-2013;false;27;010313-LEJ-XRY-8266-XY-YTM;XRY;LEJ;advanced condition failed
+XY-CMJ;18-04-2012;18-04-2012;18-04-2012;18-04-2012;false;46;180412-BRQ-NRN-5818-XY-CMJ;NRN;BRQ;advanced condition failed
+XY-OZH;16-12-2011;16-12-2011;16-12-2011;16-12-2011;false;17;161211-TLS-NRN-4863-XY-OZH;NRN;TLS;advanced condition failed
+XY-FBA;07-10-2012;07-10-2012;07-10-2012;07-10-2012;false;03;071012-GRQ-NCE-6747-XY-FBA;NCE;GRQ;advanced condition failed
+XY-JXR;25-12-2016;25-12-2016;25-12-2016;25-12-2016;false;68;251216-FNC-LPA-9162-XY-JXR;LPA;FNC;advanced condition failed
+XY-FBA;13-12-2011;13-12-2011;13-12-2011;13-12-2011;false;68;131211-BIO-PRG-1526-XY-FBA;PRG;BIO;advanced condition failed
+XY-IWX;25-03-2010;24-03-2010;25-03-2010;25-03-2010;false;96;250310-NAP-LGW-8466-XY-IWX;LGW;NAP;advanced condition failed
+XY-IWX;23-11-2015;23-11-2015;23-11-2015;23-11-2015;false;12;231115-DLM-TFS-6992-XY-IWX;TFS;DLM;advanced condition failed
+XY-IOO;14-06-2014;14-06-2014;14-06-2014;14-06-2014;false;35;140614-BRN-MRS-2161-XY-IOO;MRS;BRN;advanced condition failed
+XY-YTM;03-01-2015;03-01-2015;03-01-2015;03-01-2015;false;18;030115-SVO-EIN-9664-XY-YTM;EIN;SVO;advanced condition failed
+XY-OHF;03-06-2013;03-06-2013;03-06-2013;03-06-2013;false;25;030613-LUG-TSR-8821-XY-OHF;TSR;LUG;advanced condition failed
+XY-NMY;15-11-2012;15-11-2012;15-11-2012;15-11-2012;false;55;151112-ZAG-CTA-1554-XY-NMY;CTA;ZAG;advanced condition failed
+XY-ALV;13-09-2012;13-09-2012;13-09-2012;13-09-2012;false;39;130912-MLA-LGG-9663-XY-ALV;LGG;MLA;advanced condition failed
+XY-NHZ;22-03-2016;22-03-2016;22-03-2016;22-03-2016;false;02;220316-OPO-ATH-2544-XY-NHZ;ATH;OPO;advanced condition failed
+XY-YAZ;02-03-2012;02-03-2012;02-03-2012;02-03-2012;false;93;020312-RNS-BOO-9198-XY-YAZ;BOO;RNS;advanced condition failed
+XY-IWX;23-04-2011;23-04-2011;23-04-2011;23-04-2011;false;27;230411-VAR-RIX-3188-XY-IWX;RIX;VAR;advanced condition failed
+XY-MBJ;25-12-2015;24-12-2015;25-12-2015;25-12-2015;false;57;251215-SPU-FKB-5754-XY-MBJ;FKB;SPU;advanced condition failed
+XY-IOO;11-04-2011;11-04-2011;11-04-2011;11-04-2011;false;11;110411-DLM-HAU-9253-XY-IOO;HAU;DLM;advanced condition failed
+XY-JXR;04-11-2010;04-11-2010;04-11-2010;04-11-2010;false;14;041110-VKO-BIA-8179-XY-JXR;BIA;VKO;advanced condition failed
+XY-PZC;23-09-2016;23-09-2016;23-09-2016;23-09-2016;false;42;230916-IBZ-SXF-2272-XY-PZC;SXF;IBZ;advanced condition failed
+XY-OZH;23-06-2016;23-06-2016;23-06-2016;24-06-2016;false;06;230616-TBS-REU-4882-XY-OZH;REU;TBS;advanced condition failed
+XY-CMJ;10-08-2012;10-08-2012;10-08-2012;10-08-2012;false;92;100812-BLQ-AAR-7542-XY-CMJ;AAR;BLQ;advanced condition failed
+XY-OHF;16-03-2014;16-03-2014;16-03-2014;16-03-2014;false;;160314-TMP-MAH-9286-XY-OHF;MAH;TMP;advanced condition failed
+XY-PZC;17-10-2015;17-10-2015;17-10-2015;17-10-2015;false;;171015-VAA-GOA-4779-XY-PZC;GOA;VAA;advanced condition failed
+XY-ZMF;09-04-2013;09-04-2013;09-04-2013;09-04-2013;false;;090413-EXT-TLL-3456-XY-ZMF;TLL;EXT;advanced condition failed
+XY-LQZ;29-08-2016;28-08-2016;29-08-2016;29-08-2016;false;;290816-RUN-FMM-5573-XY-LQZ;FMM;RUN;advanced condition failed
+XY-FBA;12-02-2011;12-02-2011;12-02-2011;12-02-2011;false;;120211-SKP-DUB-1616-XY-FBA;DUB;SKP;advanced condition failed
+XY-OHF;09-09-2012;09-09-2012;09-09-2012;09-09-2012;false;;090912-XRY-BOD-7853-XY-OHF;BOD;XRY;advanced condition failed
+XY-YTM;05-01-2013;05-01-2013;05-01-2013;05-01-2013;false;;050113-CIY-AOI-4838-XY-YTM;AOI;CIY;advanced condition failed
+XY-ALV;24-01-2014;24-01-2014;24-01-2014;24-01-2014;false;;240114-MAH-CRL-5975-XY-ALV;CRL;MAH;advanced condition failed
+XY-ZWJ;23-04-2010;23-04-2010;23-04-2010;23-04-2010;false;;230410-CPH-ODS-1232-XY-ZWJ;ODS;CPH;advanced condition failed
+XY-MBJ;08-12-2013;08-12-2013;08-12-2013;08-12-2013;false;42;081213-BIA-FUE-5249-XY-MBJ;FUE;BIA;advanced condition failed
+XY-LQZ;13-12-2013;13-12-2013;;;true;  ;131213-TPS-AES-4688-XY-LQZ;AES;TPS;advanced condition failed
+XY-IWX;04-01-2015;04-01-2015;04-01-2015;04-01-2015;false;;040115-BFS-OLB-3343-XY-IWX;OLB;BFS;advanced condition failed
+XY-LQZ;25-03-2012;24-03-2012;;;true;  ;250312-TOS-GOA-4419-XY-LQZ;GOA;TOS;advanced condition failed
+XY-ZMF;20-09-2014;20-09-2014;;;true;  ;200914-NCE-FSC-5136-XY-ZMF;FSC;NCE;advanced condition failed
+XY-FBA;26-02-2012;25-02-2012;;;true;  ;260212-DRS-HAU-3234-XY-FBA;HAU;DRS;advanced condition failed
+XY-ALV;23-12-2011;23-12-2011;;;true;  ;231211-NYO-MST-3624-XY-ALV;MST;NYO;advanced condition failed
+XY-YAZ;10-07-2011;10-07-2011;;;true;  ;100711-DSA-OPO-9174-XY-YAZ;OPO;DSA;advanced condition failed
+XY-ZDY;26-11-2011;26-11-2011;;;true;  ;261111-LCY-SXB-7494-XY-ZDY;SXB;LCY;advanced condition failed
+XY-CMJ;22-03-2014;22-03-2014;;;true;  ;220314-PMI-NRN-6898-XY-CMJ;NRN;PMI;advanced condition failed
+XY-LYP;04-07-2016;03-07-2016;;;true;  ;040716-KUN-GVA-7139-XY-LYP;GVA;KUN;advanced condition failed
+XY-ALV;08-07-2016;08-07-2016;;;true;  ;080716-OPO-TOS-9459-XY-ALV;TOS;OPO;advanced condition failed
+XY-NHZ;09-10-2016;09-10-2016;;;true;  ;091016-HAJ-BHX-9752-XY-NHZ;BHX;HAJ;advanced condition failed
+XY-MBJ;24-01-2015;24-01-2015;;;true;  ;240115-GRO-LCA-1349-XY-MBJ;LCA;GRO;advanced condition failed
+XY-JXR;07-12-2012;07-12-2012;;;true;  ;071212-VAA-BDS-2536-XY-JXR;BDS;VAA;advanced condition failed
+XY-NHZ;29-11-2011;29-11-2011;;;true;  ;291111-DME-INI-8613-XY-NHZ;INI;DME;advanced condition failed
+XY-NHZ;01-09-2013;01-09-2013;;;true;  ;010913-PMO-TRD-3834-XY-NHZ;TRD;PMO;advanced condition failed
+XY-ZMF;27-01-2016;26-01-2016;;;true;  ;270116-TFN-AAL-6389-XY-ZMF;AAL;TFN;advanced condition failed
+XY-CMJ;25-11-2014;25-11-2014;;;true;  ;251114-TOS-SZG-2997-XY-CMJ;SZG;TOS;advanced condition failed
+XY-CMJ;23-09-2011;23-09-2011;;;true;  ;230911-AYT-WMI-1387-XY-CMJ;WMI;AYT;advanced condition failed
+XY-YTM;20-06-2011;20-06-2011;;;true;  ;200611-ORY-LGG-2369-XY-YTM;LGG;ORY;advanced condition failed
+XY-MBJ;18-04-2011;18-04-2011;;;true;  ;180411-VKO-BER-1887-XY-MBJ;BER;VKO;advanced condition failed
+XY-OHF;05-11-2015;05-11-2015;;;true;  ;051115-SVG-BHD-6379-XY-OHF;BHD;SVG;advanced condition failed
+XY-ZWJ;07-09-2013;07-09-2013;;;true;  ;070913-KRS-OVD-6537-XY-ZWJ;OVD;KRS;advanced condition failed
+XY-ZMF;30-03-2012;30-03-2012;;;true;  ;300312-ZRH-SVO-9675-XY-ZMF;SVO;ZRH;advanced condition failed
+XY-NHZ;31-10-2010;31-10-2010;;;true;  ;311010-PDL-FKB-9791-XY-NHZ;FKB;PDL;advanced condition failed
+XY-NHZ;19-12-2010;19-12-2010;;;true;  ;191210-EGC-LCA-9937-XY-NHZ;LCA;EGC;advanced condition failed
+XY-YTM;26-04-2013;26-04-2013;;;true;  ;260413-RVN-RIX-6971-XY-YTM;RIX;RVN;advanced condition failed
+XY-ALV;22-05-2013;22-05-2013;;;true;  ;220513-PSA-SXF-5388-XY-ALV;SXF;PSA;advanced condition failed
+XY-OFW;10-04-2011;10-04-2011;;;true;  ;100411-LGW-DME-4143-XY-OFW;DME;LGW;advanced condition failed
+XY-YAZ;09-04-2011;09-04-2011;;;true;  ;090411-LHR-SNN-7624-XY-YAZ;SNN;LHR;advanced condition failed
+XY-FBA;11-12-2013;11-12-2013;11-12-2013;11-12-2013;false;75;111213-LUG-LUX-3834-XY-FBA;LUX;LUG;advanced condition failed
+XY-IWX;04-03-2012;04-03-2012;04-03-2012;05-03-2012;false;07;040312-BGO-IST-7874-XY-IWX;IST;BGO;advanced condition failed
+XY-JXR;24-05-2016;24-05-2016;24-05-2016;24-05-2016;false;43;240516-OTP-HAM-1772-XY-JXR;HAM;OTP;advanced condition failed
+XY-LQZ;05-02-2016;05-02-2016;05-02-2016;05-02-2016;false;18;050216-BMA-LUX-9981-XY-LQZ;LUX;BMA;advanced condition failed
+XY-YTM;24-04-2016;24-04-2016;24-04-2016;25-04-2016;false;83;240416-OLB-ALA-4873-XY-YTM;ALA;OLB;advanced condition failed
+XY-IWX;21-11-2015;21-11-2015;21-11-2015;21-11-2015;false;95;211115-NAP-HHN-5679-XY-IWX;HHN;NAP;advanced condition failed
+XY-CMJ;30-03-2015;30-03-2015;30-03-2015;30-03-2015;false;95;300315-AYT-EXT-3361-XY-CMJ;EXT;AYT;advanced condition failed
+XY-IOO;15-10-2016;15-10-2016;15-10-2016;15-10-2016;false;33;151016-BGY-NAP-3783-XY-IOO;NAP;BGY;advanced condition failed
+XY-OHF;25-10-2016;25-10-2016;25-10-2016;25-10-2016;false;28;251016-DBV-OUL-9854-XY-OHF;OUL;DBV;advanced condition failed
+XY-ZDY;25-01-2014;25-01-2014;25-01-2014;25-01-2014;false;33;250114-PUY-CGN-6349-XY-ZDY;CGN;PUY;advanced condition failed
+XY-OZH;01-07-2014;01-07-2014;01-07-2014;01-07-2014;false;82;010714-BER-HHN-1168-XY-OZH;HHN;BER;advanced condition failed
+XY-NMY;24-04-2010;24-04-2010;24-04-2010;25-04-2010;false;16;240410-EGC-SAW-5325-XY-NMY;SAW;EGC;advanced condition failed
+XY-ALV;08-12-2010;08-12-2010;08-12-2010;08-12-2010;false;14;081210-CDG-CHQ-5763-XY-ALV;CHQ;CDG;advanced condition failed
+XY-JXR;27-03-2015;27-03-2015;27-03-2015;27-03-2015;false;67;270315-OSL-EVN-6295-XY-JXR;EVN;OSL;advanced condition failed
+XY-LYP;19-08-2013;19-08-2013;19-08-2013;19-08-2013;false;42;190813-DUS-KBP-7126-XY-LYP;KBP;DUS;advanced condition failed
+XY-OHF;22-06-2011;21-06-2011;22-06-2011;22-06-2011;false;66;220611-BRS-LIN-8633-XY-OHF;LIN;BRS;advanced condition failed
+XY-FBA;10-07-2011;10-07-2011;10-07-2011;10-07-2011;false;06;100711-DLM-MAH-3386-XY-FBA;MAH;DLM;advanced condition failed
+XY-JXR;27-06-2014;27-06-2014;27-06-2014;27-06-2014;false;41;270614-SXB-FDH-2998-XY-JXR;FDH;SXB;advanced condition failed
+XY-YTM;13-03-2016;13-03-2016;13-03-2016;13-03-2016;false;45;130316-ZTH-LED-9562-XY-YTM;LED;ZTH;advanced condition failed
+XY-ZMF;30-08-2014;30-08-2014;30-08-2014;30-08-2014;false;46;300814-PIK-FAO-7297-XY-ZMF;FAO;PIK;advanced condition failed
+XY-MBJ;07-11-2015;07-11-2015;07-11-2015;07-11-2015;false;35;071115-TMP-GOT-7399-XY-MBJ;GOT;TMP;advanced condition failed
+XY-ZMF;19-06-2015;19-06-2015;19-06-2015;19-06-2015;false;87;190615-SOU-EGC-5748-XY-ZMF;EGC;SOU;advanced condition failed
+XY-JXR;04-02-2011;04-02-2011;04-02-2011;04-02-2011;false;;040211-GOT-DLM-1792-XY-JXR;DLM;GOT;advanced condition failed
+XY-PZC;19-02-2015;19-02-2015;;;true;  ;190215-VIE-OLB-7789-XY-PZC;OLB;VIE;advanced condition failed
+XY-JXR;22-07-2015;22-07-2015;;;true;  ;220715-LWO-CLJ-2348-XY-JXR;CLJ;LWO;advanced condition failed
+XY-NMY;08-09-2014;07-09-2014;;;true;  ;080914-KLU-SKP-4231-XY-NMY;SKP;KLU;advanced condition failed
+XY-MBJ;20-12-2012;20-12-2012;;;true;  ;201212-OUL-FLR-8325-XY-MBJ;FLR;OUL;advanced condition failed
+XY-ZWJ;19-08-2013;19-08-2013;;;true;  ;190813-BJV-SDR-7678-XY-ZWJ;SDR;BJV;advanced condition failed
+XY-NMY;17-03-2015;17-03-2015;;;true;  ;170315-TRD-NTE-7715-XY-NMY;NTE;TRD;advanced condition failed
+XY-ZWJ;21-01-2014;21-01-2014;;;true;  ;210114-LEI-PSA-9759-XY-ZWJ;PSA;LEI;advanced condition failed
+XY-ALV;29-01-2012;28-01-2012;;;true;  ;290112-ZTH-BOD-6751-XY-ALV;BOD;ZTH;advanced condition failed
+XY-IWX;11-05-2016;11-05-2016;;;true;  ;110516-IBZ-CWL-4446-XY-IWX;CWL;IBZ;advanced condition failed
+XY-YAZ;17-08-2010;17-08-2010;17-08-2010;17-08-2010;false;82;170810-IEV-LGG-3886-XY-YAZ;LGG;IEV;advanced condition failed
