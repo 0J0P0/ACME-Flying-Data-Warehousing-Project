@@ -40,9 +40,9 @@ CREATE TABLE "AircraftUtilizationMetrics"
     delay_count INT NOT NULL,
     delay_min_count FLOAT NOT NULL,
     cancelled_count INT NOT NULL,
+    days_in_service FLOAT NOT NULL,
     days_out_of_service_scheduled FLOAT NOT NULL,
     days_out_of_service_unscheduled FLOAT NOT NULL,
-    days_in_service FLOAT NOT NULL,
     PRIMARY KEY ("aircraftID", "dateID"),
 );
 
