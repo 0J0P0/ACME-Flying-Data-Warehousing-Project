@@ -1,9 +1,0 @@
-- se usa departure para el delay
-- scheduleddeparture para dateID
-
-
-
-- SI HAY QUE COMPROBAR LA 14 BIEN
-- MIRAR FK
-- podemos poner que el airport del piloto sea null/"NAN"
-- Asumimos que logbook order con mismo aricraft, date, y repoterclass y reportedid son dos instacnias diferentes de mantenimiento que han sido realizadas el mismo dia. 
